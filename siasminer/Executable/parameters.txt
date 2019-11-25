@@ -1,0 +1,7 @@
+maxDistance=1
+minVertices=5
+resultFolderPath=resultsIngredients
+inputFilePath=../../Data/Ingredients/graph.json
+topK=10000
+applyUpdating=true
+topKWithUpdating=100

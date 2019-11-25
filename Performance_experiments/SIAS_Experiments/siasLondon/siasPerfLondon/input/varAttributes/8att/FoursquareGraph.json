@@ -1,0 +1,6307 @@
+{
+    "descriptorName": "FoursquareVenues",
+    "attributesName": [
+        "Outdoors & Recreation",
+        "Shop & Service",
+        "College & University",
+        "Travel & Transport",
+        "Event",
+        "Nightlife Spot",
+        "Residence",
+        "Arts & Entertainment"
+    ],
+    "vertices": [
+        {
+            "vertexId": "V(0,0)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(0,1)",
+            "descriptorsValues": [
+                1.0,
+                2.0,
+                0,
+                0,
+                0,
+                1.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(0,2)",
+            "descriptorsValues": [
+                4.0,
+                15.0,
+                2.0,
+                1.0,
+                0,
+                12.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(0,3)",
+            "descriptorsValues": [
+                8.0,
+                14.0,
+                1.0,
+                6.0,
+                1.0,
+                16.0,
+                7.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(0,4)",
+            "descriptorsValues": [
+                4.0,
+                2.0,
+                2.0,
+                4.0,
+                0,
+                4.0,
+                3.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(0,5)",
+            "descriptorsValues": [
+                5.0,
+                2.0,
+                0,
+                6.0,
+                2.0,
+                3.0,
+                4.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(0,6)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                1.0,
+                2.0,
+                0,
+                2.0,
+                6.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(0,7)",
+            "descriptorsValues": [
+                5.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                6.0,
+                5.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(0,8)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                0,
+                3.0,
+                0,
+                4.0,
+                5.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(0,9)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                3.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(0,10)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                3.0,
+                0,
+                0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(0,11)",
+            "descriptorsValues": [
+                1.0,
+                3.0,
+                0,
+                1.0,
+                0,
+                0,
+                4.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(0,12)",
+            "descriptorsValues": [
+                1.0,
+                5.0,
+                4.0,
+                6.0,
+                0,
+                5.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(0,13)",
+            "descriptorsValues": [
+                8.0,
+                3.0,
+                3.0,
+                5.0,
+                0,
+                4.0,
+                9.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(0,14)",
+            "descriptorsValues": [
+                9.0,
+                14.0,
+                3.0,
+                9.0,
+                0,
+                22.0,
+                3.0,
+                11.0
+            ]
+        },
+        {
+            "vertexId": "V(0,15)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(0,16)",
+            "descriptorsValues": [
+                1.0,
+                2.0,
+                0,
+                3.0,
+                0,
+                3.0,
+                3.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,0)",
+            "descriptorsValues": [
+                3.0,
+                1.0,
+                0,
+                0,
+                0,
+                2.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,1)",
+            "descriptorsValues": [
+                5.0,
+                2.0,
+                0,
+                2.0,
+                0,
+                6.0,
+                3.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(1,2)",
+            "descriptorsValues": [
+                6.0,
+                5.0,
+                0,
+                6.0,
+                2.0,
+                9.0,
+                2.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(1,3)",
+            "descriptorsValues": [
+                7.0,
+                1.0,
+                1.0,
+                8.0,
+                0,
+                10.0,
+                7.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(1,4)",
+            "descriptorsValues": [
+                7.0,
+                31.0,
+                2.0,
+                6.0,
+                0,
+                17.0,
+                4.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(1,5)",
+            "descriptorsValues": [
+                7.0,
+                0,
+                0,
+                3.0,
+                0,
+                2.0,
+                8.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(1,6)",
+            "descriptorsValues": [
+                7.0,
+                0,
+                0,
+                6.0,
+                1.0,
+                2.0,
+                3.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(1,7)",
+            "descriptorsValues": [
+                13.0,
+                7.0,
+                1.0,
+                9.0,
+                0,
+                22.0,
+                11.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(1,8)",
+            "descriptorsValues": [
+                7.0,
+                3.0,
+                0,
+                4.0,
+                0,
+                5.0,
+                8.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(1,9)",
+            "descriptorsValues": [
+                5.0,
+                8.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,10)",
+            "descriptorsValues": [
+                1.0,
+                6.0,
+                0,
+                1.0,
+                0,
+                2.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,11)",
+            "descriptorsValues": [
+                0,
+                1.0,
+                0,
+                3.0,
+                0,
+                3.0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(1,12)",
+            "descriptorsValues": [
+                3.0,
+                5.0,
+                2.0,
+                1.0,
+                0,
+                0,
+                3.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,13)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                3.0,
+                0,
+                3.0,
+                9.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,14)",
+            "descriptorsValues": [
+                5.0,
+                0,
+                3.0,
+                9.0,
+                1.0,
+                8.0,
+                0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(1,15)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                0,
+                2.0,
+                0,
+                3.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(1,16)",
+            "descriptorsValues": [
+                1.0,
+                11.0,
+                0,
+                4.0,
+                0,
+                1.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(2,0)",
+            "descriptorsValues": [
+                5.0,
+                9.0,
+                3.0,
+                7.0,
+                0,
+                13.0,
+                1.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(2,1)",
+            "descriptorsValues": [
+                13.0,
+                24.0,
+                1.0,
+                15.0,
+                2.0,
+                15.0,
+                1.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(2,2)",
+            "descriptorsValues": [
+                4.0,
+                6.0,
+                0,
+                18.0,
+                5.0,
+                4.0,
+                3.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(2,3)",
+            "descriptorsValues": [
+                12.0,
+                22.0,
+                6.0,
+                77.0,
+                0,
+                25.0,
+                6.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(2,4)",
+            "descriptorsValues": [
+                14.0,
+                36.0,
+                3.0,
+                15.0,
+                2.0,
+                18.0,
+                5.0,
+                15.0
+            ]
+        },
+        {
+            "vertexId": "V(2,5)",
+            "descriptorsValues": [
+                9.0,
+                37.0,
+                3.0,
+                27.0,
+                0,
+                13.0,
+                0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(2,6)",
+            "descriptorsValues": [
+                8.0,
+                24.0,
+                5.0,
+                69.0,
+                0,
+                32.0,
+                3.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(2,7)",
+            "descriptorsValues": [
+                12.0,
+                2.0,
+                2.0,
+                11.0,
+                0,
+                8.0,
+                2.0,
+                9.0
+            ]
+        },
+        {
+            "vertexId": "V(2,8)",
+            "descriptorsValues": [
+                5.0,
+                10.0,
+                6.0,
+                18.0,
+                0,
+                11.0,
+                3.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(2,9)",
+            "descriptorsValues": [
+                0,
+                2.0,
+                0,
+                4.0,
+                0,
+                4.0,
+                2.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(2,10)",
+            "descriptorsValues": [
+                1.0,
+                3.0,
+                0,
+                4.0,
+                0,
+                4.0,
+                1.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(2,11)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                0,
+                0,
+                0,
+                2.0,
+                0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(2,12)",
+            "descriptorsValues": [
+                3.0,
+                7.0,
+                0,
+                5.0,
+                0,
+                3.0,
+                5.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(2,13)",
+            "descriptorsValues": [
+                1.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                2.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(2,14)",
+            "descriptorsValues": [
+                4.0,
+                2.0,
+                1.0,
+                2.0,
+                0,
+                1.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(2,15)",
+            "descriptorsValues": [
+                2.0,
+                3.0,
+                0,
+                2.0,
+                0,
+                5.0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(2,16)",
+            "descriptorsValues": [
+                0,
+                4.0,
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(3,0)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                2.0,
+                1.0,
+                0,
+                9.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(3,1)",
+            "descriptorsValues": [
+                5.0,
+                8.0,
+                1.0,
+                14.0,
+                0,
+                13.0,
+                7.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(3,2)",
+            "descriptorsValues": [
+                7.0,
+                12.0,
+                0,
+                7.0,
+                3.0,
+                6.0,
+                2.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(3,3)",
+            "descriptorsValues": [
+                7.0,
+                41.0,
+                8.0,
+                21.0,
+                1.0,
+                19.0,
+                19.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(3,4)",
+            "descriptorsValues": [
+                10.0,
+                23.0,
+                29.0,
+                8.0,
+                2.0,
+                14.0,
+                12.0,
+                29.0
+            ]
+        },
+        {
+            "vertexId": "V(3,5)",
+            "descriptorsValues": [
+                10.0,
+                58.0,
+                3.0,
+                26.0,
+                0,
+                23.0,
+                9.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(3,6)",
+            "descriptorsValues": [
+                15.0,
+                30.0,
+                1.0,
+                21.0,
+                0,
+                29.0,
+                5.0,
+                10.0
+            ]
+        },
+        {
+            "vertexId": "V(3,7)",
+            "descriptorsValues": [
+                17.0,
+                4.0,
+                1.0,
+                26.0,
+                5.0,
+                14.0,
+                4.0,
+                16.0
+            ]
+        },
+        {
+            "vertexId": "V(3,8)",
+            "descriptorsValues": [
+                3.0,
+                25.0,
+                20.0,
+                48.0,
+                0,
+                30.0,
+                9.0,
+                9.0
+            ]
+        },
+        {
+            "vertexId": "V(3,9)",
+            "descriptorsValues": [
+                15.0,
+                13.0,
+                9.0,
+                14.0,
+                1.0,
+                30.0,
+                9.0,
+                13.0
+            ]
+        },
+        {
+            "vertexId": "V(3,10)",
+            "descriptorsValues": [
+                8.0,
+                11.0,
+                0,
+                7.0,
+                0,
+                16.0,
+                10.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(3,11)",
+            "descriptorsValues": [
+                5.0,
+                2.0,
+                0,
+                9.0,
+                0,
+                8.0,
+                2.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(3,12)",
+            "descriptorsValues": [
+                6.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                4.0,
+                6.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(3,13)",
+            "descriptorsValues": [
+                10.0,
+                8.0,
+                0,
+                8.0,
+                0,
+                5.0,
+                12.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(3,14)",
+            "descriptorsValues": [
+                4.0,
+                0,
+                0,
+                2.0,
+                0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(3,15)",
+            "descriptorsValues": [
+                6.0,
+                2.0,
+                1.0,
+                8.0,
+                2.0,
+                11.0,
+                0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(3,16)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                2.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(4,0)",
+            "descriptorsValues": [
+                3.0,
+                2.0,
+                0,
+                4.0,
+                0,
+                2.0,
+                5.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(4,1)",
+            "descriptorsValues": [
+                9.0,
+                107.0,
+                4.0,
+                14.0,
+                0,
+                11.0,
+                2.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(4,2)",
+            "descriptorsValues": [
+                3.0,
+                13.0,
+                3.0,
+                8.0,
+                0,
+                9.0,
+                1.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(4,3)",
+            "descriptorsValues": [
+                8.0,
+                12.0,
+                0,
+                11.0,
+                0,
+                7.0,
+                14.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(4,4)",
+            "descriptorsValues": [
+                7.0,
+                0,
+                0,
+                1.0,
+                0,
+                0,
+                2.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(4,5)",
+            "descriptorsValues": [
+                16.0,
+                25.0,
+                4.0,
+                25.0,
+                1.0,
+                28.0,
+                9.0,
+                23.0
+            ]
+        },
+        {
+            "vertexId": "V(4,6)",
+            "descriptorsValues": [
+                23.0,
+                157.0,
+                7.0,
+                48.0,
+                7.0,
+                90.0,
+                7.0,
+                60.0
+            ]
+        },
+        {
+            "vertexId": "V(4,7)",
+            "descriptorsValues": [
+                27.0,
+                49.0,
+                11.0,
+                51.0,
+                10.0,
+                77.0,
+                6.0,
+                68.0
+            ]
+        },
+        {
+            "vertexId": "V(4,8)",
+            "descriptorsValues": [
+                17.0,
+                11.0,
+                10.0,
+                21.0,
+                2.0,
+                25.0,
+                9.0,
+                31.0
+            ]
+        },
+        {
+            "vertexId": "V(4,9)",
+            "descriptorsValues": [
+                27.0,
+                37.0,
+                6.0,
+                41.0,
+                4.0,
+                58.0,
+                2.0,
+                16.0
+            ]
+        },
+        {
+            "vertexId": "V(4,10)",
+            "descriptorsValues": [
+                23.0,
+                4.0,
+                1.0,
+                13.0,
+                0,
+                19.0,
+                9.0,
+                11.0
+            ]
+        },
+        {
+            "vertexId": "V(4,11)",
+            "descriptorsValues": [
+                8.0,
+                2.0,
+                1.0,
+                3.0,
+                1.0,
+                4.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(4,12)",
+            "descriptorsValues": [
+                5.0,
+                2.0,
+                0,
+                7.0,
+                0,
+                4.0,
+                5.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(4,13)",
+            "descriptorsValues": [
+                18.0,
+                31.0,
+                1.0,
+                14.0,
+                2.0,
+                20.0,
+                8.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(4,14)",
+            "descriptorsValues": [
+                6.0,
+                6.0,
+                0,
+                7.0,
+                0,
+                0,
+                6.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(4,15)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                0,
+                4.0,
+                0,
+                2.0,
+                0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(4,16)",
+            "descriptorsValues": [
+                7.0,
+                2.0,
+                0,
+                12.0,
+                13.0,
+                3.0,
+                9.0,
+                11.0
+            ]
+        },
+        {
+            "vertexId": "V(5,0)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                2.0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(5,1)",
+            "descriptorsValues": [
+                9.0,
+                4.0,
+                1.0,
+                4.0,
+                0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(5,2)",
+            "descriptorsValues": [
+                8.0,
+                33.0,
+                0,
+                8.0,
+                1.0,
+                22.0,
+                1.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(5,3)",
+            "descriptorsValues": [
+                12.0,
+                38.0,
+                2.0,
+                70.0,
+                0,
+                17.0,
+                11.0,
+                14.0
+            ]
+        },
+        {
+            "vertexId": "V(5,4)",
+            "descriptorsValues": [
+                12.0,
+                15.0,
+                0,
+                102.0,
+                1.0,
+                26.0,
+                6.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(5,5)",
+            "descriptorsValues": [
+                19.0,
+                123.0,
+                7.0,
+                51.0,
+                0,
+                53.0,
+                6.0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(5,6)",
+            "descriptorsValues": [
+                34.0,
+                373.0,
+                22.0,
+                50.0,
+                7.0,
+                235.0,
+                6.0,
+                79.0
+            ]
+        },
+        {
+            "vertexId": "V(5,7)",
+            "descriptorsValues": [
+                31.0,
+                243.0,
+                48.0,
+                50.0,
+                7.0,
+                151.0,
+                2.0,
+                76.0
+            ]
+        },
+        {
+            "vertexId": "V(5,8)",
+            "descriptorsValues": [
+                21.0,
+                27.0,
+                5.0,
+                23.0,
+                0,
+                67.0,
+                2.0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(5,9)",
+            "descriptorsValues": [
+                21.0,
+                78.0,
+                8.0,
+                32.0,
+                1.0,
+                85.0,
+                2.0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(5,10)",
+            "descriptorsValues": [
+                16.0,
+                28.0,
+                16.0,
+                28.0,
+                0,
+                71.0,
+                8.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(5,11)",
+            "descriptorsValues": [
+                6.0,
+                4.0,
+                1.0,
+                5.0,
+                0,
+                3.0,
+                3.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(5,12)",
+            "descriptorsValues": [
+                7.0,
+                2.0,
+                2.0,
+                2.0,
+                0,
+                4.0,
+                1.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(5,13)",
+            "descriptorsValues": [
+                3.0,
+                1.0,
+                1.0,
+                1.0,
+                0,
+                2.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(5,14)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                1.0,
+                4.0,
+                0,
+                0,
+                3.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(5,15)",
+            "descriptorsValues": [
+                4.0,
+                5.0,
+                0,
+                6.0,
+                0,
+                1.0,
+                0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(5,16)",
+            "descriptorsValues": [
+                0,
+                2.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(6,0)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(6,1)",
+            "descriptorsValues": [
+                5.0,
+                0,
+                0,
+                1.0,
+                0,
+                3.0,
+                5.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(6,2)",
+            "descriptorsValues": [
+                6.0,
+                13.0,
+                1.0,
+                4.0,
+                0,
+                12.0,
+                6.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(6,3)",
+            "descriptorsValues": [
+                9.0,
+                1.0,
+                1.0,
+                8.0,
+                0,
+                9.0,
+                10.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(6,4)",
+            "descriptorsValues": [
+                8.0,
+                10.0,
+                3.0,
+                23.0,
+                3.0,
+                10.0,
+                13.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(6,5)",
+            "descriptorsValues": [
+                5.0,
+                38.0,
+                12.0,
+                40.0,
+                0,
+                21.0,
+                29.0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(6,6)",
+            "descriptorsValues": [
+                16.0,
+                72.0,
+                59.0,
+                32.0,
+                1.0,
+                74.0,
+                9.0,
+                23.0
+            ]
+        },
+        {
+            "vertexId": "V(6,7)",
+            "descriptorsValues": [
+                17.0,
+                34.0,
+                40.0,
+                39.0,
+                1.0,
+                31.0,
+                3.0,
+                23.0
+            ]
+        },
+        {
+            "vertexId": "V(6,8)",
+            "descriptorsValues": [
+                20.0,
+                63.0,
+                9.0,
+                20.0,
+                5.0,
+                79.0,
+                17.0,
+                9.0
+            ]
+        },
+        {
+            "vertexId": "V(6,9)",
+            "descriptorsValues": [
+                27.0,
+                28.0,
+                12.0,
+                22.0,
+                2.0,
+                52.0,
+                7.0,
+                22.0
+            ]
+        },
+        {
+            "vertexId": "V(6,10)",
+            "descriptorsValues": [
+                19.0,
+                110.0,
+                8.0,
+                20.0,
+                7.0,
+                62.0,
+                15.0,
+                63.0
+            ]
+        },
+        {
+            "vertexId": "V(6,11)",
+            "descriptorsValues": [
+                4.0,
+                9.0,
+                0,
+                3.0,
+                0,
+                3.0,
+                8.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(6,12)",
+            "descriptorsValues": [
+                11.0,
+                2.0,
+                19.0,
+                2.0,
+                0,
+                4.0,
+                5.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(6,13)",
+            "descriptorsValues": [
+                2.0,
+                3.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                8.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(6,14)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(6,15)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(6,16)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(7,0)",
+            "descriptorsValues": [
+                0,
+                4.0,
+                0,
+                4.0,
+                0,
+                1.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(7,1)",
+            "descriptorsValues": [
+                5.0,
+                6.0,
+                0,
+                2.0,
+                0,
+                6.0,
+                2.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(7,2)",
+            "descriptorsValues": [
+                4.0,
+                1.0,
+                1.0,
+                7.0,
+                0,
+                2.0,
+                7.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(7,3)",
+            "descriptorsValues": [
+                5.0,
+                5.0,
+                0,
+                8.0,
+                0,
+                1.0,
+                5.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(7,4)",
+            "descriptorsValues": [
+                4.0,
+                1.0,
+                2.0,
+                5.0,
+                0,
+                5.0,
+                6.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(7,5)",
+            "descriptorsValues": [
+                9.0,
+                3.0,
+                10.0,
+                1.0,
+                1.0,
+                2.0,
+                1.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(7,6)",
+            "descriptorsValues": [
+                9.0,
+                9.0,
+                18.0,
+                42.0,
+                2.0,
+                18.0,
+                2.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(7,7)",
+            "descriptorsValues": [
+                11.0,
+                28.0,
+                11.0,
+                97.0,
+                2.0,
+                41.0,
+                8.0,
+                21.0
+            ]
+        },
+        {
+            "vertexId": "V(7,8)",
+            "descriptorsValues": [
+                15.0,
+                16.0,
+                17.0,
+                8.0,
+                1.0,
+                20.0,
+                18.0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(7,9)",
+            "descriptorsValues": [
+                17.0,
+                33.0,
+                4.0,
+                15.0,
+                2.0,
+                45.0,
+                13.0,
+                23.0
+            ]
+        },
+        {
+            "vertexId": "V(7,10)",
+            "descriptorsValues": [
+                11.0,
+                37.0,
+                6.0,
+                7.0,
+                0,
+                63.0,
+                17.0,
+                22.0
+            ]
+        },
+        {
+            "vertexId": "V(7,11)",
+            "descriptorsValues": [
+                12.0,
+                15.0,
+                1.0,
+                15.0,
+                0,
+                16.0,
+                14.0,
+                11.0
+            ]
+        },
+        {
+            "vertexId": "V(7,12)",
+            "descriptorsValues": [
+                8.0,
+                1.0,
+                2.0,
+                2.0,
+                0,
+                3.0,
+                6.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(7,13)",
+            "descriptorsValues": [
+                4.0,
+                3.0,
+                0,
+                6.0,
+                0,
+                3.0,
+                6.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(7,14)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                2.0,
+                1.0,
+                0,
+                0,
+                3.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(7,15)",
+            "descriptorsValues": [
+                4.0,
+                1.0,
+                0,
+                8.0,
+                0,
+                0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(7,16)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(8,0)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                0,
+                2.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(8,1)",
+            "descriptorsValues": [
+                2.0,
+                3.0,
+                0,
+                5.0,
+                0,
+                5.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(8,2)",
+            "descriptorsValues": [
+                5.0,
+                3.0,
+                0,
+                3.0,
+                0,
+                3.0,
+                0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(8,3)",
+            "descriptorsValues": [
+                4.0,
+                15.0,
+                0,
+                8.0,
+                0,
+                8.0,
+                3.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(8,4)",
+            "descriptorsValues": [
+                2.0,
+                5.0,
+                1.0,
+                1.0,
+                0,
+                2.0,
+                3.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(8,5)",
+            "descriptorsValues": [
+                5.0,
+                2.0,
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                8.0
+            ]
+        },
+        {
+            "vertexId": "V(8,6)",
+            "descriptorsValues": [
+                8.0,
+                26.0,
+                3.0,
+                12.0,
+                1.0,
+                29.0,
+                1.0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(8,7)",
+            "descriptorsValues": [
+                11.0,
+                9.0,
+                2.0,
+                11.0,
+                1.0,
+                10.0,
+                2.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(8,8)",
+            "descriptorsValues": [
+                12.0,
+                42.0,
+                6.0,
+                7.0,
+                2.0,
+                43.0,
+                0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(8,9)",
+            "descriptorsValues": [
+                4.0,
+                4.0,
+                3.0,
+                1.0,
+                0,
+                9.0,
+                2.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(8,10)",
+            "descriptorsValues": [
+                6.0,
+                5.0,
+                2.0,
+                4.0,
+                0,
+                10.0,
+                5.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(8,11)",
+            "descriptorsValues": [
+                8.0,
+                19.0,
+                0,
+                2.0,
+                1.0,
+                20.0,
+                0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(8,12)",
+            "descriptorsValues": [
+                8.0,
+                2.0,
+                0,
+                0,
+                1.0,
+                5.0,
+                1.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(8,13)",
+            "descriptorsValues": [
+                2.0,
+                5.0,
+                0,
+                2.0,
+                0,
+                1.0,
+                1.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(8,14)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                0,
+                5.0,
+                0,
+                0,
+                2.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(8,15)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(8,16)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(9,0)",
+            "descriptorsValues": [
+                4.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(9,1)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                5.0,
+                0,
+                0,
+                3.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(9,2)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                1.0,
+                5.0,
+                0,
+                4.0,
+                1.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(9,3)",
+            "descriptorsValues": [
+                2.0,
+                6.0,
+                0,
+                5.0,
+                0,
+                4.0,
+                8.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(9,4)",
+            "descriptorsValues": [
+                5.0,
+                8.0,
+                3.0,
+                7.0,
+                0,
+                5.0,
+                2.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(9,5)",
+            "descriptorsValues": [
+                11.0,
+                28.0,
+                1.0,
+                6.0,
+                1.0,
+                21.0,
+                7.0,
+                10.0
+            ]
+        },
+        {
+            "vertexId": "V(9,6)",
+            "descriptorsValues": [
+                8.0,
+                27.0,
+                3.0,
+                8.0,
+                0,
+                25.0,
+                5.0,
+                9.0
+            ]
+        },
+        {
+            "vertexId": "V(9,7)",
+            "descriptorsValues": [
+                6.0,
+                5.0,
+                1.0,
+                4.0,
+                1.0,
+                4.0,
+                5.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(9,8)",
+            "descriptorsValues": [
+                4.0,
+                16.0,
+                0,
+                8.0,
+                0,
+                31.0,
+                5.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(9,9)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                1.0,
+                9.0,
+                0,
+                6.0,
+                10.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(9,10)",
+            "descriptorsValues": [
+                9.0,
+                13.0,
+                0,
+                2.0,
+                1.0,
+                15.0,
+                10.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(9,11)",
+            "descriptorsValues": [
+                5.0,
+                13.0,
+                2.0,
+                8.0,
+                0,
+                9.0,
+                5.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(9,12)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                0,
+                1.0,
+                0,
+                4.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(9,13)",
+            "descriptorsValues": [
+                2.0,
+                3.0,
+                0,
+                2.0,
+                2.0,
+                5.0,
+                2.0,
+                9.0
+            ]
+        },
+        {
+            "vertexId": "V(9,14)",
+            "descriptorsValues": [
+                7.0,
+                57.0,
+                0,
+                18.0,
+                1.0,
+                8.0,
+                3.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(9,15)",
+            "descriptorsValues": [
+                1.0,
+                4.0,
+                5.0,
+                6.0,
+                0,
+                6.0,
+                4.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(9,16)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                2.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(10,0)",
+            "descriptorsValues": [
+                0,
+                1.0,
+                0,
+                3.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(10,1)",
+            "descriptorsValues": [
+                1.0,
+                3.0,
+                0,
+                3.0,
+                0,
+                1.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(10,2)",
+            "descriptorsValues": [
+                2.0,
+                7.0,
+                0,
+                2.0,
+                0,
+                3.0,
+                6.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(10,3)",
+            "descriptorsValues": [
+                6.0,
+                14.0,
+                3.0,
+                12.0,
+                0,
+                3.0,
+                5.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(10,4)",
+            "descriptorsValues": [
+                4.0,
+                6.0,
+                2.0,
+                2.0,
+                0,
+                4.0,
+                3.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(10,5)",
+            "descriptorsValues": [
+                4.0,
+                5.0,
+                1.0,
+                0,
+                0,
+                5.0,
+                1.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(10,6)",
+            "descriptorsValues": [
+                4.0,
+                5.0,
+                2.0,
+                5.0,
+                0,
+                11.0,
+                3.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(10,7)",
+            "descriptorsValues": [
+                5.0,
+                5.0,
+                1.0,
+                5.0,
+                0,
+                4.0,
+                9.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(10,8)",
+            "descriptorsValues": [
+                8.0,
+                14.0,
+                4.0,
+                3.0,
+                0,
+                16.0,
+                6.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(10,9)",
+            "descriptorsValues": [
+                3.0,
+                5.0,
+                2.0,
+                5.0,
+                0,
+                10.0,
+                6.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(10,10)",
+            "descriptorsValues": [
+                5.0,
+                33.0,
+                0,
+                2.0,
+                0,
+                24.0,
+                9.0,
+                12.0
+            ]
+        },
+        {
+            "vertexId": "V(10,11)",
+            "descriptorsValues": [
+                6.0,
+                9.0,
+                0,
+                6.0,
+                1.0,
+                12.0,
+                3.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(10,12)",
+            "descriptorsValues": [
+                4.0,
+                6.0,
+                0,
+                1.0,
+                0,
+                5.0,
+                5.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(10,13)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                2.0,
+                1.0,
+                0,
+                1.0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(10,14)",
+            "descriptorsValues": [
+                3.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(10,15)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(10,16)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                3.0,
+                0,
+                4.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(11,0)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(11,1)",
+            "descriptorsValues": [
+                2.0,
+                4.0,
+                0,
+                6.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(11,2)",
+            "descriptorsValues": [
+                5.0,
+                0,
+                0,
+                2.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(11,3)",
+            "descriptorsValues": [
+                0,
+                0,
+                3.0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(11,4)",
+            "descriptorsValues": [
+                6.0,
+                10.0,
+                0,
+                3.0,
+                1.0,
+                9.0,
+                1.0,
+                6.0
+            ]
+        },
+        {
+            "vertexId": "V(11,5)",
+            "descriptorsValues": [
+                6.0,
+                2.0,
+                1.0,
+                2.0,
+                0,
+                0,
+                0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(11,6)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                2.0,
+                4.0,
+                0,
+                6.0,
+                0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(11,7)",
+            "descriptorsValues": [
+                3.0,
+                14.0,
+                2.0,
+                5.0,
+                0,
+                7.0,
+                2.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(11,8)",
+            "descriptorsValues": [
+                7.0,
+                9.0,
+                1.0,
+                6.0,
+                1.0,
+                8.0,
+                3.0,
+                7.0
+            ]
+        },
+        {
+            "vertexId": "V(11,9)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                0,
+                0,
+                0,
+                4.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(11,10)",
+            "descriptorsValues": [
+                1.0,
+                12.0,
+                0,
+                2.0,
+                0,
+                12.0,
+                0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(11,11)",
+            "descriptorsValues": [
+                2.0,
+                5.0,
+                2.0,
+                2.0,
+                0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(11,12)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(11,13)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(11,14)",
+            "descriptorsValues": [
+                4.0,
+                8.0,
+                0,
+                1.0,
+                0,
+                3.0,
+                0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(11,15)",
+            "descriptorsValues": [
+                3.0,
+                1.0,
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(11,16)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                2.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,0)",
+            "descriptorsValues": [
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(12,1)",
+            "descriptorsValues": [
+                0,
+                2.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,2)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,3)",
+            "descriptorsValues": [
+                3.0,
+                0,
+                0,
+                1.0,
+                0,
+                1.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,4)",
+            "descriptorsValues": [
+                3.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,5)",
+            "descriptorsValues": [
+                4.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,6)",
+            "descriptorsValues": [
+                5.0,
+                4.0,
+                2.0,
+                6.0,
+                0,
+                8.0,
+                6.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,7)",
+            "descriptorsValues": [
+                5.0,
+                4.0,
+                1.0,
+                3.0,
+                0,
+                3.0,
+                4.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,8)",
+            "descriptorsValues": [
+                3.0,
+                9.0,
+                0,
+                8.0,
+                1.0,
+                8.0,
+                13.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(12,9)",
+            "descriptorsValues": [
+                3.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                4.0,
+                2.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,10)",
+            "descriptorsValues": [
+                4.0,
+                8.0,
+                0,
+                1.0,
+                0,
+                14.0,
+                7.0,
+                3.0
+            ]
+        },
+        {
+            "vertexId": "V(12,11)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                2.0,
+                1.0,
+                0,
+                2.0,
+                2.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,12)",
+            "descriptorsValues": [
+                5.0,
+                0,
+                1.0,
+                0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,13)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,14)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                2.0,
+                0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(12,15)",
+            "descriptorsValues": [
+                2.0,
+                3.0,
+                0,
+                2.0,
+                0,
+                3.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(12,16)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,0)",
+            "descriptorsValues": [
+                2.0,
+                5.0,
+                0,
+                2.0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,1)",
+            "descriptorsValues": [
+                1.0,
+                5.0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(13,2)",
+            "descriptorsValues": [
+                3.0,
+                5.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,3)",
+            "descriptorsValues": [
+                1.0,
+                1.0,
+                0,
+                5.0,
+                0,
+                1.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,4)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(13,5)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                0,
+                0,
+                7.0,
+                3.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(13,6)",
+            "descriptorsValues": [
+                4.0,
+                0,
+                0,
+                4.0,
+                0,
+                2.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,7)",
+            "descriptorsValues": [
+                4.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                4.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,8)",
+            "descriptorsValues": [
+                5.0,
+                4.0,
+                0,
+                2.0,
+                0,
+                2.0,
+                4.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(13,9)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                5.0,
+                0,
+                1.0,
+                4.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,10)",
+            "descriptorsValues": [
+                1.0,
+                2.0,
+                0,
+                4.0,
+                0,
+                0,
+                7.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,11)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,12)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,13)",
+            "descriptorsValues": [
+                0,
+                5.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,14)",
+            "descriptorsValues": [
+                4.0,
+                2.0,
+                0,
+                3.0,
+                1.0,
+                3.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(13,15)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                1.0,
+                3.0,
+                0,
+                2.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(13,16)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,0)",
+            "descriptorsValues": [
+                0,
+                3.0,
+                1.0,
+                3.0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,1)",
+            "descriptorsValues": [
+                3.0,
+                19.0,
+                0,
+                4.0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,2)",
+            "descriptorsValues": [
+                0,
+                3.0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,3)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,4)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,5)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                0,
+                0,
+                0,
+                4.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(14,6)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(14,7)",
+            "descriptorsValues": [
+                4.0,
+                8.0,
+                0,
+                3.0,
+                0,
+                8.0,
+                0,
+                5.0
+            ]
+        },
+        {
+            "vertexId": "V(14,8)",
+            "descriptorsValues": [
+                5.0,
+                16.0,
+                0,
+                5.0,
+                0,
+                4.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,9)",
+            "descriptorsValues": [
+                1.0,
+                3.0,
+                0,
+                0,
+                0,
+                3.0,
+                0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(14,10)",
+            "descriptorsValues": [
+                0,
+                2.0,
+                1.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,11)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(14,12)",
+            "descriptorsValues": [
+                1.0,
+                3.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(14,13)",
+            "descriptorsValues": [
+                0,
+                3.0,
+                0,
+                3.0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(14,14)",
+            "descriptorsValues": [
+                0,
+                3.0,
+                0,
+                0,
+                0,
+                2.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(14,15)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                2.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(14,16)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                3.0,
+                0,
+                5.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,0)",
+            "descriptorsValues": [
+                0,
+                2.0,
+                4.0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,1)",
+            "descriptorsValues": [
+                4.0,
+                1.0,
+                1.0,
+                4.0,
+                0,
+                1.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,2)",
+            "descriptorsValues": [
+                1.0,
+                6.0,
+                1.0,
+                0,
+                0,
+                0,
+                3.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,3)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,4)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                0,
+                4.0,
+                0,
+                2.0,
+                4.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(15,5)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                2.0,
+                0,
+                0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,6)",
+            "descriptorsValues": [
+                4.0,
+                5.0,
+                1.0,
+                0,
+                0,
+                1.0,
+                2.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(15,7)",
+            "descriptorsValues": [
+                3.0,
+                0,
+                0,
+                0,
+                0,
+                4.0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,8)",
+            "descriptorsValues": [
+                4.0,
+                7.0,
+                0,
+                6.0,
+                0,
+                4.0,
+                8.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(15,9)",
+            "descriptorsValues": [
+                3.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                5.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(15,10)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                2.0,
+                3.0,
+                0,
+                2.0,
+                4.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(15,11)",
+            "descriptorsValues": [
+                5.0,
+                7.0,
+                1.0,
+                4.0,
+                0,
+                1.0,
+                0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(15,12)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                0,
+                3.0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,13)",
+            "descriptorsValues": [
+                3.0,
+                9.0,
+                0,
+                4.0,
+                0,
+                4.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,14)",
+            "descriptorsValues": [
+                3.0,
+                3.0,
+                0,
+                1.0,
+                0,
+                4.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(15,15)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(15,16)",
+            "descriptorsValues": [
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,0)",
+            "descriptorsValues": [
+                2.0,
+                1.0,
+                6.0,
+                0,
+                0,
+                0,
+                2.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,1)",
+            "descriptorsValues": [
+                0,
+                0,
+                2.0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,2)",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                1.0,
+                0,
+                0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,3)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(16,4)",
+            "descriptorsValues": [
+                0,
+                2.0,
+                0,
+                1.0,
+                0,
+                1.0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,5)",
+            "descriptorsValues": [
+                1.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                3.0,
+                1.0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,6)",
+            "descriptorsValues": [
+                4.0,
+                3.0,
+                1.0,
+                2.0,
+                0,
+                4.0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(16,7)",
+            "descriptorsValues": [
+                2.0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(16,8)",
+            "descriptorsValues": [
+                2.0,
+                29.0,
+                1.0,
+                4.0,
+                0,
+                5.0,
+                6.0,
+                4.0
+            ]
+        },
+        {
+            "vertexId": "V(16,9)",
+            "descriptorsValues": [
+                2.0,
+                2.0,
+                0,
+                1.0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,10)",
+            "descriptorsValues": [
+                5.0,
+                4.0,
+                1.0,
+                1.0,
+                0,
+                6.0,
+                3.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(16,11)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                2.0
+            ]
+        },
+        {
+            "vertexId": "V(16,12)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(16,13)",
+            "descriptorsValues": [
+                3.0,
+                1.0,
+                0,
+                0,
+                0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "vertexId": "V(16,14)",
+            "descriptorsValues": [
+                3.0,
+                1.0,
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,15)",
+            "descriptorsValues": [
+                1.0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "V(16,16)",
+            "descriptorsValues": [
+                1.0,
+                5.0,
+                0,
+                1.0,
+                0,
+                4.0,
+                1.0,
+                1.0
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "vertexId": "V(0,0)",
+            "connected_vertices": [
+                "V(0,1)",
+                "V(1,0)"
+            ]
+        },
+        {
+            "vertexId": "V(0,1)",
+            "connected_vertices": [
+                "V(0,0)",
+                "V(1,1)",
+                "V(0,2)"
+            ]
+        },
+        {
+            "vertexId": "V(0,2)",
+            "connected_vertices": [
+                "V(0,1)",
+                "V(0,3)",
+                "V(1,2)"
+            ]
+        },
+        {
+            "vertexId": "V(0,3)",
+            "connected_vertices": [
+                "V(1,3)",
+                "V(0,4)",
+                "V(0,2)"
+            ]
+        },
+        {
+            "vertexId": "V(0,4)",
+            "connected_vertices": [
+                "V(0,5)",
+                "V(1,4)",
+                "V(0,3)"
+            ]
+        },
+        {
+            "vertexId": "V(0,5)",
+            "connected_vertices": [
+                "V(0,4)",
+                "V(1,5)",
+                "V(0,6)"
+            ]
+        },
+        {
+            "vertexId": "V(0,6)",
+            "connected_vertices": [
+                "V(0,5)",
+                "V(0,7)",
+                "V(1,6)"
+            ]
+        },
+        {
+            "vertexId": "V(0,7)",
+            "connected_vertices": [
+                "V(1,7)",
+                "V(0,8)",
+                "V(0,6)"
+            ]
+        },
+        {
+            "vertexId": "V(0,8)",
+            "connected_vertices": [
+                "V(0,9)",
+                "V(1,8)",
+                "V(0,7)"
+            ]
+        },
+        {
+            "vertexId": "V(0,9)",
+            "connected_vertices": [
+                "V(0,8)",
+                "V(1,9)",
+                "V(0,10)"
+            ]
+        },
+        {
+            "vertexId": "V(0,10)",
+            "connected_vertices": [
+                "V(0,9)",
+                "V(0,11)",
+                "V(1,10)"
+            ]
+        },
+        {
+            "vertexId": "V(0,11)",
+            "connected_vertices": [
+                "V(0,12)",
+                "V(1,11)",
+                "V(0,10)"
+            ]
+        },
+        {
+            "vertexId": "V(0,12)",
+            "connected_vertices": [
+                "V(0,11)",
+                "V(1,12)",
+                "V(0,13)"
+            ]
+        },
+        {
+            "vertexId": "V(0,13)",
+            "connected_vertices": [
+                "V(0,12)",
+                "V(1,13)",
+                "V(0,14)"
+            ]
+        },
+        {
+            "vertexId": "V(0,14)",
+            "connected_vertices": [
+                "V(0,15)",
+                "V(1,14)",
+                "V(0,13)"
+            ]
+        },
+        {
+            "vertexId": "V(0,15)",
+            "connected_vertices": [
+                "V(0,16)",
+                "V(1,15)",
+                "V(0,14)"
+            ]
+        },
+        {
+            "vertexId": "V(0,16)",
+            "connected_vertices": [
+                "V(0,15)",
+                "V(1,16)"
+            ]
+        },
+        {
+            "vertexId": "V(1,0)",
+            "connected_vertices": [
+                "V(0,0)",
+                "V(2,0)",
+                "V(1,1)"
+            ]
+        },
+        {
+            "vertexId": "V(1,1)",
+            "connected_vertices": [
+                "V(0,1)",
+                "V(1,0)",
+                "V(2,1)",
+                "V(1,2)"
+            ]
+        },
+        {
+            "vertexId": "V(1,2)",
+            "connected_vertices": [
+                "V(2,2)",
+                "V(1,3)",
+                "V(1,1)",
+                "V(0,2)"
+            ]
+        },
+        {
+            "vertexId": "V(1,3)",
+            "connected_vertices": [
+                "V(2,3)",
+                "V(1,4)",
+                "V(0,3)",
+                "V(1,2)"
+            ]
+        },
+        {
+            "vertexId": "V(1,4)",
+            "connected_vertices": [
+                "V(1,3)",
+                "V(0,4)",
+                "V(2,4)",
+                "V(1,5)"
+            ]
+        },
+        {
+            "vertexId": "V(1,5)",
+            "connected_vertices": [
+                "V(0,5)",
+                "V(1,4)",
+                "V(2,5)",
+                "V(1,6)"
+            ]
+        },
+        {
+            "vertexId": "V(1,6)",
+            "connected_vertices": [
+                "V(2,6)",
+                "V(1,7)",
+                "V(1,5)",
+                "V(0,6)"
+            ]
+        },
+        {
+            "vertexId": "V(1,7)",
+            "connected_vertices": [
+                "V(2,7)",
+                "V(1,8)",
+                "V(0,7)",
+                "V(1,6)"
+            ]
+        },
+        {
+            "vertexId": "V(1,8)",
+            "connected_vertices": [
+                "V(1,7)",
+                "V(0,8)",
+                "V(2,8)",
+                "V(1,9)"
+            ]
+        },
+        {
+            "vertexId": "V(1,9)",
+            "connected_vertices": [
+                "V(0,9)",
+                "V(1,8)",
+                "V(2,9)",
+                "V(1,10)"
+            ]
+        },
+        {
+            "vertexId": "V(1,10)",
+            "connected_vertices": [
+                "V(2,10)",
+                "V(1,9)",
+                "V(1,11)",
+                "V(0,10)"
+            ]
+        },
+        {
+            "vertexId": "V(1,11)",
+            "connected_vertices": [
+                "V(2,11)",
+                "V(0,11)",
+                "V(1,12)",
+                "V(1,10)"
+            ]
+        },
+        {
+            "vertexId": "V(1,12)",
+            "connected_vertices": [
+                "V(2,12)",
+                "V(0,12)",
+                "V(1,13)",
+                "V(1,11)"
+            ]
+        },
+        {
+            "vertexId": "V(1,13)",
+            "connected_vertices": [
+                "V(2,13)",
+                "V(1,14)",
+                "V(0,13)",
+                "V(1,12)"
+            ]
+        },
+        {
+            "vertexId": "V(1,14)",
+            "connected_vertices": [
+                "V(2,14)",
+                "V(1,15)",
+                "V(0,14)",
+                "V(1,13)"
+            ]
+        },
+        {
+            "vertexId": "V(1,15)",
+            "connected_vertices": [
+                "V(0,15)",
+                "V(2,15)",
+                "V(1,16)",
+                "V(1,14)"
+            ]
+        },
+        {
+            "vertexId": "V(1,16)",
+            "connected_vertices": [
+                "V(0,16)",
+                "V(2,16)",
+                "V(1,15)"
+            ]
+        },
+        {
+            "vertexId": "V(2,0)",
+            "connected_vertices": [
+                "V(3,0)",
+                "V(1,0)",
+                "V(2,1)"
+            ]
+        },
+        {
+            "vertexId": "V(2,1)",
+            "connected_vertices": [
+                "V(2,2)",
+                "V(1,1)",
+                "V(2,0)",
+                "V(3,1)"
+            ]
+        },
+        {
+            "vertexId": "V(2,2)",
+            "connected_vertices": [
+                "V(2,3)",
+                "V(3,2)",
+                "V(1,2)",
+                "V(2,1)"
+            ]
+        },
+        {
+            "vertexId": "V(2,3)",
+            "connected_vertices": [
+                "V(1,3)",
+                "V(2,2)",
+                "V(2,4)",
+                "V(3,3)"
+            ]
+        },
+        {
+            "vertexId": "V(2,4)",
+            "connected_vertices": [
+                "V(1,4)",
+                "V(2,3)",
+                "V(2,5)",
+                "V(3,4)"
+            ]
+        },
+        {
+            "vertexId": "V(2,5)",
+            "connected_vertices": [
+                "V(3,5)",
+                "V(2,6)",
+                "V(1,5)",
+                "V(2,4)"
+            ]
+        },
+        {
+            "vertexId": "V(2,6)",
+            "connected_vertices": [
+                "V(3,6)",
+                "V(2,7)",
+                "V(1,6)",
+                "V(2,5)"
+            ]
+        },
+        {
+            "vertexId": "V(2,7)",
+            "connected_vertices": [
+                "V(3,7)",
+                "V(1,7)",
+                "V(2,6)",
+                "V(2,8)"
+            ]
+        },
+        {
+            "vertexId": "V(2,8)",
+            "connected_vertices": [
+                "V(3,8)",
+                "V(1,8)",
+                "V(2,7)",
+                "V(2,9)"
+            ]
+        },
+        {
+            "vertexId": "V(2,9)",
+            "connected_vertices": [
+                "V(2,10)",
+                "V(1,9)",
+                "V(2,8)",
+                "V(3,9)"
+            ]
+        },
+        {
+            "vertexId": "V(2,10)",
+            "connected_vertices": [
+                "V(3,10)",
+                "V(2,11)",
+                "V(2,9)",
+                "V(1,10)"
+            ]
+        },
+        {
+            "vertexId": "V(2,11)",
+            "connected_vertices": [
+                "V(2,10)",
+                "V(3,11)",
+                "V(2,12)",
+                "V(1,11)"
+            ]
+        },
+        {
+            "vertexId": "V(2,12)",
+            "connected_vertices": [
+                "V(3,12)",
+                "V(2,11)",
+                "V(2,13)",
+                "V(1,12)"
+            ]
+        },
+        {
+            "vertexId": "V(2,13)",
+            "connected_vertices": [
+                "V(3,13)",
+                "V(2,12)",
+                "V(2,14)",
+                "V(1,13)"
+            ]
+        },
+        {
+            "vertexId": "V(2,14)",
+            "connected_vertices": [
+                "V(2,13)",
+                "V(3,14)",
+                "V(2,15)",
+                "V(1,14)"
+            ]
+        },
+        {
+            "vertexId": "V(2,15)",
+            "connected_vertices": [
+                "V(2,14)",
+                "V(3,15)",
+                "V(2,16)",
+                "V(1,15)"
+            ]
+        },
+        {
+            "vertexId": "V(2,16)",
+            "connected_vertices": [
+                "V(3,16)",
+                "V(2,15)",
+                "V(1,16)"
+            ]
+        },
+        {
+            "vertexId": "V(3,0)",
+            "connected_vertices": [
+                "V(2,0)",
+                "V(4,0)",
+                "V(3,1)"
+            ]
+        },
+        {
+            "vertexId": "V(3,1)",
+            "connected_vertices": [
+                "V(3,0)",
+                "V(4,1)",
+                "V(3,2)",
+                "V(2,1)"
+            ]
+        },
+        {
+            "vertexId": "V(3,2)",
+            "connected_vertices": [
+                "V(2,2)",
+                "V(4,2)",
+                "V(3,3)",
+                "V(3,1)"
+            ]
+        },
+        {
+            "vertexId": "V(3,3)",
+            "connected_vertices": [
+                "V(2,3)",
+                "V(4,3)",
+                "V(3,4)",
+                "V(3,2)"
+            ]
+        },
+        {
+            "vertexId": "V(3,4)",
+            "connected_vertices": [
+                "V(4,4)",
+                "V(3,5)",
+                "V(2,4)",
+                "V(3,3)"
+            ]
+        },
+        {
+            "vertexId": "V(3,5)",
+            "connected_vertices": [
+                "V(4,5)",
+                "V(3,6)",
+                "V(2,5)",
+                "V(3,4)"
+            ]
+        },
+        {
+            "vertexId": "V(3,6)",
+            "connected_vertices": [
+                "V(4,6)",
+                "V(3,7)",
+                "V(3,5)",
+                "V(2,6)"
+            ]
+        },
+        {
+            "vertexId": "V(3,7)",
+            "connected_vertices": [
+                "V(4,7)",
+                "V(3,8)",
+                "V(3,6)",
+                "V(2,7)"
+            ]
+        },
+        {
+            "vertexId": "V(3,8)",
+            "connected_vertices": [
+                "V(3,7)",
+                "V(2,8)",
+                "V(4,8)",
+                "V(3,9)"
+            ]
+        },
+        {
+            "vertexId": "V(3,9)",
+            "connected_vertices": [
+                "V(3,8)",
+                "V(3,10)",
+                "V(4,9)",
+                "V(2,9)"
+            ]
+        },
+        {
+            "vertexId": "V(3,10)",
+            "connected_vertices": [
+                "V(2,10)",
+                "V(3,11)",
+                "V(3,9)",
+                "V(4,10)"
+            ]
+        },
+        {
+            "vertexId": "V(3,11)",
+            "connected_vertices": [
+                "V(3,12)",
+                "V(2,11)",
+                "V(3,10)",
+                "V(4,11)"
+            ]
+        },
+        {
+            "vertexId": "V(3,12)",
+            "connected_vertices": [
+                "V(3,13)",
+                "V(2,12)",
+                "V(3,11)",
+                "V(4,12)"
+            ]
+        },
+        {
+            "vertexId": "V(3,13)",
+            "connected_vertices": [
+                "V(3,12)",
+                "V(2,13)",
+                "V(4,13)",
+                "V(3,14)"
+            ]
+        },
+        {
+            "vertexId": "V(3,14)",
+            "connected_vertices": [
+                "V(3,13)",
+                "V(2,14)",
+                "V(4,14)",
+                "V(3,15)"
+            ]
+        },
+        {
+            "vertexId": "V(3,15)",
+            "connected_vertices": [
+                "V(4,15)",
+                "V(3,16)",
+                "V(2,15)",
+                "V(3,14)"
+            ]
+        },
+        {
+            "vertexId": "V(3,16)",
+            "connected_vertices": [
+                "V(4,16)",
+                "V(2,16)",
+                "V(3,15)"
+            ]
+        },
+        {
+            "vertexId": "V(4,0)",
+            "connected_vertices": [
+                "V(3,0)",
+                "V(4,1)",
+                "V(5,0)"
+            ]
+        },
+        {
+            "vertexId": "V(4,1)",
+            "connected_vertices": [
+                "V(5,1)",
+                "V(4,2)",
+                "V(3,1)",
+                "V(4,0)"
+            ]
+        },
+        {
+            "vertexId": "V(4,2)",
+            "connected_vertices": [
+                "V(4,3)",
+                "V(5,2)",
+                "V(3,2)",
+                "V(4,1)"
+            ]
+        },
+        {
+            "vertexId": "V(4,3)",
+            "connected_vertices": [
+                "V(5,3)",
+                "V(4,4)",
+                "V(3,3)",
+                "V(4,2)"
+            ]
+        },
+        {
+            "vertexId": "V(4,4)",
+            "connected_vertices": [
+                "V(4,5)",
+                "V(5,4)",
+                "V(3,4)",
+                "V(4,3)"
+            ]
+        },
+        {
+            "vertexId": "V(4,5)",
+            "connected_vertices": [
+                "V(5,5)",
+                "V(4,6)",
+                "V(3,5)",
+                "V(4,4)"
+            ]
+        },
+        {
+            "vertexId": "V(4,6)",
+            "connected_vertices": [
+                "V(4,7)",
+                "V(5,6)",
+                "V(3,6)",
+                "V(4,5)"
+            ]
+        },
+        {
+            "vertexId": "V(4,7)",
+            "connected_vertices": [
+                "V(3,7)",
+                "V(4,6)",
+                "V(5,7)",
+                "V(4,8)"
+            ]
+        },
+        {
+            "vertexId": "V(4,8)",
+            "connected_vertices": [
+                "V(3,8)",
+                "V(4,7)",
+                "V(4,9)",
+                "V(5,8)"
+            ]
+        },
+        {
+            "vertexId": "V(4,9)",
+            "connected_vertices": [
+                "V(5,9)",
+                "V(3,9)",
+                "V(4,8)",
+                "V(4,10)"
+            ]
+        },
+        {
+            "vertexId": "V(4,10)",
+            "connected_vertices": [
+                "V(3,10)",
+                "V(4,11)",
+                "V(4,9)",
+                "V(5,10)"
+            ]
+        },
+        {
+            "vertexId": "V(4,11)",
+            "connected_vertices": [
+                "V(3,11)",
+                "V(4,12)",
+                "V(5,11)",
+                "V(4,10)"
+            ]
+        },
+        {
+            "vertexId": "V(4,12)",
+            "connected_vertices": [
+                "V(3,12)",
+                "V(4,11)",
+                "V(5,12)",
+                "V(4,13)"
+            ]
+        },
+        {
+            "vertexId": "V(4,13)",
+            "connected_vertices": [
+                "V(3,13)",
+                "V(4,12)",
+                "V(5,13)",
+                "V(4,14)"
+            ]
+        },
+        {
+            "vertexId": "V(4,14)",
+            "connected_vertices": [
+                "V(4,15)",
+                "V(5,14)",
+                "V(3,14)",
+                "V(4,13)"
+            ]
+        },
+        {
+            "vertexId": "V(4,15)",
+            "connected_vertices": [
+                "V(4,16)",
+                "V(5,15)",
+                "V(3,15)",
+                "V(4,14)"
+            ]
+        },
+        {
+            "vertexId": "V(4,16)",
+            "connected_vertices": [
+                "V(4,15)",
+                "V(5,16)",
+                "V(3,16)"
+            ]
+        },
+        {
+            "vertexId": "V(5,0)",
+            "connected_vertices": [
+                "V(6,0)",
+                "V(5,1)",
+                "V(4,0)"
+            ]
+        },
+        {
+            "vertexId": "V(5,1)",
+            "connected_vertices": [
+                "V(6,1)",
+                "V(5,2)",
+                "V(4,1)",
+                "V(5,0)"
+            ]
+        },
+        {
+            "vertexId": "V(5,2)",
+            "connected_vertices": [
+                "V(6,2)",
+                "V(5,3)",
+                "V(5,1)",
+                "V(4,2)"
+            ]
+        },
+        {
+            "vertexId": "V(5,3)",
+            "connected_vertices": [
+                "V(6,3)",
+                "V(5,4)",
+                "V(4,3)",
+                "V(5,2)"
+            ]
+        },
+        {
+            "vertexId": "V(5,4)",
+            "connected_vertices": [
+                "V(6,4)",
+                "V(5,5)",
+                "V(5,3)",
+                "V(4,4)"
+            ]
+        },
+        {
+            "vertexId": "V(5,5)",
+            "connected_vertices": [
+                "V(6,5)",
+                "V(5,6)",
+                "V(4,5)",
+                "V(5,4)"
+            ]
+        },
+        {
+            "vertexId": "V(5,6)",
+            "connected_vertices": [
+                "V(5,5)",
+                "V(4,6)",
+                "V(6,6)",
+                "V(5,7)"
+            ]
+        },
+        {
+            "vertexId": "V(5,7)",
+            "connected_vertices": [
+                "V(4,7)",
+                "V(5,6)",
+                "V(6,7)",
+                "V(5,8)"
+            ]
+        },
+        {
+            "vertexId": "V(5,8)",
+            "connected_vertices": [
+                "V(6,8)",
+                "V(5,9)",
+                "V(5,7)",
+                "V(4,8)"
+            ]
+        },
+        {
+            "vertexId": "V(5,9)",
+            "connected_vertices": [
+                "V(6,9)",
+                "V(4,9)",
+                "V(5,8)",
+                "V(5,10)"
+            ]
+        },
+        {
+            "vertexId": "V(5,10)",
+            "connected_vertices": [
+                "V(5,9)",
+                "V(6,10)",
+                "V(5,11)",
+                "V(4,10)"
+            ]
+        },
+        {
+            "vertexId": "V(5,11)",
+            "connected_vertices": [
+                "V(4,11)",
+                "V(6,11)",
+                "V(5,12)",
+                "V(5,10)"
+            ]
+        },
+        {
+            "vertexId": "V(5,12)",
+            "connected_vertices": [
+                "V(4,12)",
+                "V(6,12)",
+                "V(5,13)",
+                "V(5,11)"
+            ]
+        },
+        {
+            "vertexId": "V(5,13)",
+            "connected_vertices": [
+                "V(5,14)",
+                "V(4,13)",
+                "V(5,12)",
+                "V(6,13)"
+            ]
+        },
+        {
+            "vertexId": "V(5,14)",
+            "connected_vertices": [
+                "V(5,15)",
+                "V(4,14)",
+                "V(5,13)",
+                "V(6,14)"
+            ]
+        },
+        {
+            "vertexId": "V(5,15)",
+            "connected_vertices": [
+                "V(4,15)",
+                "V(5,16)",
+                "V(5,14)",
+                "V(6,15)"
+            ]
+        },
+        {
+            "vertexId": "V(5,16)",
+            "connected_vertices": [
+                "V(4,16)",
+                "V(5,15)",
+                "V(6,16)"
+            ]
+        },
+        {
+            "vertexId": "V(6,0)",
+            "connected_vertices": [
+                "V(6,1)",
+                "V(7,0)",
+                "V(5,0)"
+            ]
+        },
+        {
+            "vertexId": "V(6,1)",
+            "connected_vertices": [
+                "V(7,1)",
+                "V(6,2)",
+                "V(5,1)",
+                "V(6,0)"
+            ]
+        },
+        {
+            "vertexId": "V(6,2)",
+            "connected_vertices": [
+                "V(7,2)",
+                "V(6,3)",
+                "V(5,2)",
+                "V(6,1)"
+            ]
+        },
+        {
+            "vertexId": "V(6,3)",
+            "connected_vertices": [
+                "V(6,4)",
+                "V(5,3)",
+                "V(6,2)",
+                "V(7,3)"
+            ]
+        },
+        {
+            "vertexId": "V(6,4)",
+            "connected_vertices": [
+                "V(6,5)",
+                "V(7,4)",
+                "V(5,4)",
+                "V(6,3)"
+            ]
+        },
+        {
+            "vertexId": "V(6,5)",
+            "connected_vertices": [
+                "V(5,5)",
+                "V(6,4)",
+                "V(7,5)",
+                "V(6,6)"
+            ]
+        },
+        {
+            "vertexId": "V(6,6)",
+            "connected_vertices": [
+                "V(5,6)",
+                "V(6,5)",
+                "V(7,6)",
+                "V(6,7)"
+            ]
+        },
+        {
+            "vertexId": "V(6,7)",
+            "connected_vertices": [
+                "V(6,8)",
+                "V(5,7)",
+                "V(6,6)",
+                "V(7,7)"
+            ]
+        },
+        {
+            "vertexId": "V(6,8)",
+            "connected_vertices": [
+                "V(6,9)",
+                "V(7,8)",
+                "V(5,8)",
+                "V(6,7)"
+            ]
+        },
+        {
+            "vertexId": "V(6,9)",
+            "connected_vertices": [
+                "V(5,9)",
+                "V(6,8)",
+                "V(6,10)",
+                "V(7,9)"
+            ]
+        },
+        {
+            "vertexId": "V(6,10)",
+            "connected_vertices": [
+                "V(6,9)",
+                "V(7,10)",
+                "V(6,11)",
+                "V(5,10)"
+            ]
+        },
+        {
+            "vertexId": "V(6,11)",
+            "connected_vertices": [
+                "V(6,10)",
+                "V(7,11)",
+                "V(6,12)",
+                "V(5,11)"
+            ]
+        },
+        {
+            "vertexId": "V(6,12)",
+            "connected_vertices": [
+                "V(7,12)",
+                "V(5,12)",
+                "V(6,11)",
+                "V(6,13)"
+            ]
+        },
+        {
+            "vertexId": "V(6,13)",
+            "connected_vertices": [
+                "V(7,13)",
+                "V(5,13)",
+                "V(6,12)",
+                "V(6,14)"
+            ]
+        },
+        {
+            "vertexId": "V(6,14)",
+            "connected_vertices": [
+                "V(5,14)",
+                "V(6,13)",
+                "V(7,14)",
+                "V(6,15)"
+            ]
+        },
+        {
+            "vertexId": "V(6,15)",
+            "connected_vertices": [
+                "V(5,15)",
+                "V(6,14)",
+                "V(7,15)",
+                "V(6,16)"
+            ]
+        },
+        {
+            "vertexId": "V(6,16)",
+            "connected_vertices": [
+                "V(5,16)",
+                "V(7,16)",
+                "V(6,15)"
+            ]
+        },
+        {
+            "vertexId": "V(7,0)",
+            "connected_vertices": [
+                "V(8,0)",
+                "V(7,1)",
+                "V(6,0)"
+            ]
+        },
+        {
+            "vertexId": "V(7,1)",
+            "connected_vertices": [
+                "V(8,1)",
+                "V(7,2)",
+                "V(6,1)",
+                "V(7,0)"
+            ]
+        },
+        {
+            "vertexId": "V(7,2)",
+            "connected_vertices": [
+                "V(7,1)",
+                "V(6,2)",
+                "V(8,2)",
+                "V(7,3)"
+            ]
+        },
+        {
+            "vertexId": "V(7,3)",
+            "connected_vertices": [
+                "V(7,2)",
+                "V(8,3)",
+                "V(7,4)",
+                "V(6,3)"
+            ]
+        },
+        {
+            "vertexId": "V(7,4)",
+            "connected_vertices": [
+                "V(6,4)",
+                "V(7,3)",
+                "V(8,4)",
+                "V(7,5)"
+            ]
+        },
+        {
+            "vertexId": "V(7,5)",
+            "connected_vertices": [
+                "V(6,5)",
+                "V(7,4)",
+                "V(8,5)",
+                "V(7,6)"
+            ]
+        },
+        {
+            "vertexId": "V(7,6)",
+            "connected_vertices": [
+                "V(7,5)",
+                "V(6,6)",
+                "V(8,6)",
+                "V(7,7)"
+            ]
+        },
+        {
+            "vertexId": "V(7,7)",
+            "connected_vertices": [
+                "V(7,6)",
+                "V(8,7)",
+                "V(7,8)",
+                "V(6,7)"
+            ]
+        },
+        {
+            "vertexId": "V(7,8)",
+            "connected_vertices": [
+                "V(6,8)",
+                "V(7,7)",
+                "V(8,8)",
+                "V(7,9)"
+            ]
+        },
+        {
+            "vertexId": "V(7,9)",
+            "connected_vertices": [
+                "V(6,9)",
+                "V(7,8)",
+                "V(7,10)",
+                "V(8,9)"
+            ]
+        },
+        {
+            "vertexId": "V(7,10)",
+            "connected_vertices": [
+                "V(6,10)",
+                "V(8,10)",
+                "V(7,11)",
+                "V(7,9)"
+            ]
+        },
+        {
+            "vertexId": "V(7,11)",
+            "connected_vertices": [
+                "V(8,11)",
+                "V(7,12)",
+                "V(6,11)",
+                "V(7,10)"
+            ]
+        },
+        {
+            "vertexId": "V(7,12)",
+            "connected_vertices": [
+                "V(8,12)",
+                "V(7,13)",
+                "V(6,12)",
+                "V(7,11)"
+            ]
+        },
+        {
+            "vertexId": "V(7,13)",
+            "connected_vertices": [
+                "V(8,13)",
+                "V(7,12)",
+                "V(6,13)",
+                "V(7,14)"
+            ]
+        },
+        {
+            "vertexId": "V(7,14)",
+            "connected_vertices": [
+                "V(8,14)",
+                "V(7,13)",
+                "V(6,14)",
+                "V(7,15)"
+            ]
+        },
+        {
+            "vertexId": "V(7,15)",
+            "connected_vertices": [
+                "V(7,16)",
+                "V(6,15)",
+                "V(7,14)",
+                "V(8,15)"
+            ]
+        },
+        {
+            "vertexId": "V(7,16)",
+            "connected_vertices": [
+                "V(6,16)",
+                "V(7,15)",
+                "V(8,16)"
+            ]
+        },
+        {
+            "vertexId": "V(8,0)",
+            "connected_vertices": [
+                "V(8,1)",
+                "V(9,0)",
+                "V(7,0)"
+            ]
+        },
+        {
+            "vertexId": "V(8,1)",
+            "connected_vertices": [
+                "V(7,1)",
+                "V(8,0)",
+                "V(9,1)",
+                "V(8,2)"
+            ]
+        },
+        {
+            "vertexId": "V(8,2)",
+            "connected_vertices": [
+                "V(7,2)",
+                "V(8,1)",
+                "V(8,3)",
+                "V(9,2)"
+            ]
+        },
+        {
+            "vertexId": "V(8,3)",
+            "connected_vertices": [
+                "V(7,3)",
+                "V(8,2)",
+                "V(9,3)",
+                "V(8,4)"
+            ]
+        },
+        {
+            "vertexId": "V(8,4)",
+            "connected_vertices": [
+                "V(7,4)",
+                "V(8,3)",
+                "V(8,5)",
+                "V(9,4)"
+            ]
+        },
+        {
+            "vertexId": "V(8,5)",
+            "connected_vertices": [
+                "V(7,5)",
+                "V(8,4)",
+                "V(9,5)",
+                "V(8,6)"
+            ]
+        },
+        {
+            "vertexId": "V(8,6)",
+            "connected_vertices": [
+                "V(7,6)",
+                "V(8,5)",
+                "V(8,7)",
+                "V(9,6)"
+            ]
+        },
+        {
+            "vertexId": "V(8,7)",
+            "connected_vertices": [
+                "V(7,7)",
+                "V(8,6)",
+                "V(9,7)",
+                "V(8,8)"
+            ]
+        },
+        {
+            "vertexId": "V(8,8)",
+            "connected_vertices": [
+                "V(7,8)",
+                "V(8,7)",
+                "V(8,9)",
+                "V(9,8)"
+            ]
+        },
+        {
+            "vertexId": "V(8,9)",
+            "connected_vertices": [
+                "V(8,10)",
+                "V(7,9)",
+                "V(8,8)",
+                "V(9,9)"
+            ]
+        },
+        {
+            "vertexId": "V(8,10)",
+            "connected_vertices": [
+                "V(8,11)",
+                "V(9,10)",
+                "V(7,10)",
+                "V(8,9)"
+            ]
+        },
+        {
+            "vertexId": "V(8,11)",
+            "connected_vertices": [
+                "V(8,12)",
+                "V(9,11)",
+                "V(7,11)",
+                "V(8,10)"
+            ]
+        },
+        {
+            "vertexId": "V(8,12)",
+            "connected_vertices": [
+                "V(8,11)",
+                "V(9,12)",
+                "V(8,13)",
+                "V(7,12)"
+            ]
+        },
+        {
+            "vertexId": "V(8,13)",
+            "connected_vertices": [
+                "V(8,12)",
+                "V(9,13)",
+                "V(8,14)",
+                "V(7,13)"
+            ]
+        },
+        {
+            "vertexId": "V(8,14)",
+            "connected_vertices": [
+                "V(9,14)",
+                "V(8,13)",
+                "V(7,14)",
+                "V(8,15)"
+            ]
+        },
+        {
+            "vertexId": "V(8,15)",
+            "connected_vertices": [
+                "V(9,15)",
+                "V(8,14)",
+                "V(7,15)",
+                "V(8,16)"
+            ]
+        },
+        {
+            "vertexId": "V(8,16)",
+            "connected_vertices": [
+                "V(7,16)",
+                "V(8,15)",
+                "V(9,16)"
+            ]
+        },
+        {
+            "vertexId": "V(9,0)",
+            "connected_vertices": [
+                "V(8,0)",
+                "V(9,1)",
+                "V(10,0)"
+            ]
+        },
+        {
+            "vertexId": "V(9,1)",
+            "connected_vertices": [
+                "V(8,1)",
+                "V(10,1)",
+                "V(9,0)",
+                "V(9,2)"
+            ]
+        },
+        {
+            "vertexId": "V(9,2)",
+            "connected_vertices": [
+                "V(10,2)",
+                "V(9,1)",
+                "V(8,2)",
+                "V(9,3)"
+            ]
+        },
+        {
+            "vertexId": "V(9,3)",
+            "connected_vertices": [
+                "V(8,3)",
+                "V(10,3)",
+                "V(9,2)",
+                "V(9,4)"
+            ]
+        },
+        {
+            "vertexId": "V(9,4)",
+            "connected_vertices": [
+                "V(10,4)",
+                "V(9,3)",
+                "V(8,4)",
+                "V(9,5)"
+            ]
+        },
+        {
+            "vertexId": "V(9,5)",
+            "connected_vertices": [
+                "V(8,5)",
+                "V(9,4)",
+                "V(9,6)",
+                "V(10,5)"
+            ]
+        },
+        {
+            "vertexId": "V(9,6)",
+            "connected_vertices": [
+                "V(9,5)",
+                "V(8,6)",
+                "V(9,7)",
+                "V(10,6)"
+            ]
+        },
+        {
+            "vertexId": "V(9,7)",
+            "connected_vertices": [
+                "V(8,7)",
+                "V(9,6)",
+                "V(9,8)",
+                "V(10,7)"
+            ]
+        },
+        {
+            "vertexId": "V(9,8)",
+            "connected_vertices": [
+                "V(9,7)",
+                "V(8,8)",
+                "V(9,9)",
+                "V(10,8)"
+            ]
+        },
+        {
+            "vertexId": "V(9,9)",
+            "connected_vertices": [
+                "V(9,10)",
+                "V(8,9)",
+                "V(10,9)",
+                "V(9,8)"
+            ]
+        },
+        {
+            "vertexId": "V(9,10)",
+            "connected_vertices": [
+                "V(9,11)",
+                "V(8,10)",
+                "V(9,9)",
+                "V(10,10)"
+            ]
+        },
+        {
+            "vertexId": "V(9,11)",
+            "connected_vertices": [
+                "V(8,11)",
+                "V(9,12)",
+                "V(9,10)",
+                "V(10,11)"
+            ]
+        },
+        {
+            "vertexId": "V(9,12)",
+            "connected_vertices": [
+                "V(8,12)",
+                "V(9,13)",
+                "V(9,11)",
+                "V(10,12)"
+            ]
+        },
+        {
+            "vertexId": "V(9,13)",
+            "connected_vertices": [
+                "V(9,14)",
+                "V(8,13)",
+                "V(9,12)",
+                "V(10,13)"
+            ]
+        },
+        {
+            "vertexId": "V(9,14)",
+            "connected_vertices": [
+                "V(9,15)",
+                "V(8,14)",
+                "V(9,13)",
+                "V(10,14)"
+            ]
+        },
+        {
+            "vertexId": "V(9,15)",
+            "connected_vertices": [
+                "V(9,14)",
+                "V(8,15)",
+                "V(10,15)",
+                "V(9,16)"
+            ]
+        },
+        {
+            "vertexId": "V(9,16)",
+            "connected_vertices": [
+                "V(9,15)",
+                "V(8,16)",
+                "V(10,16)"
+            ]
+        },
+        {
+            "vertexId": "V(10,0)",
+            "connected_vertices": [
+                "V(11,0)",
+                "V(9,0)",
+                "V(10,1)"
+            ]
+        },
+        {
+            "vertexId": "V(10,1)",
+            "connected_vertices": [
+                "V(10,2)",
+                "V(11,1)",
+                "V(9,1)",
+                "V(10,0)"
+            ]
+        },
+        {
+            "vertexId": "V(10,2)",
+            "connected_vertices": [
+                "V(10,1)",
+                "V(11,2)",
+                "V(9,2)",
+                "V(10,3)"
+            ]
+        },
+        {
+            "vertexId": "V(10,3)",
+            "connected_vertices": [
+                "V(10,2)",
+                "V(10,4)",
+                "V(11,3)",
+                "V(9,3)"
+            ]
+        },
+        {
+            "vertexId": "V(10,4)",
+            "connected_vertices": [
+                "V(10,3)",
+                "V(9,4)",
+                "V(11,4)",
+                "V(10,5)"
+            ]
+        },
+        {
+            "vertexId": "V(10,5)",
+            "connected_vertices": [
+                "V(10,4)",
+                "V(9,5)",
+                "V(10,6)",
+                "V(11,5)"
+            ]
+        },
+        {
+            "vertexId": "V(10,6)",
+            "connected_vertices": [
+                "V(9,6)",
+                "V(10,5)",
+                "V(11,6)",
+                "V(10,7)"
+            ]
+        },
+        {
+            "vertexId": "V(10,7)",
+            "connected_vertices": [
+                "V(9,7)",
+                "V(10,6)",
+                "V(10,8)",
+                "V(11,7)"
+            ]
+        },
+        {
+            "vertexId": "V(10,8)",
+            "connected_vertices": [
+                "V(11,8)",
+                "V(9,8)",
+                "V(10,9)",
+                "V(10,7)"
+            ]
+        },
+        {
+            "vertexId": "V(10,9)",
+            "connected_vertices": [
+                "V(11,9)",
+                "V(9,9)",
+                "V(10,10)",
+                "V(10,8)"
+            ]
+        },
+        {
+            "vertexId": "V(10,10)",
+            "connected_vertices": [
+                "V(11,10)",
+                "V(9,10)",
+                "V(10,9)",
+                "V(10,11)"
+            ]
+        },
+        {
+            "vertexId": "V(10,11)",
+            "connected_vertices": [
+                "V(9,11)",
+                "V(10,12)",
+                "V(10,10)",
+                "V(11,11)"
+            ]
+        },
+        {
+            "vertexId": "V(10,12)",
+            "connected_vertices": [
+                "V(9,12)",
+                "V(10,13)",
+                "V(10,11)",
+                "V(11,12)"
+            ]
+        },
+        {
+            "vertexId": "V(10,13)",
+            "connected_vertices": [
+                "V(9,13)",
+                "V(10,12)",
+                "V(11,13)",
+                "V(10,14)"
+            ]
+        },
+        {
+            "vertexId": "V(10,14)",
+            "connected_vertices": [
+                "V(9,14)",
+                "V(10,13)",
+                "V(10,15)",
+                "V(11,14)"
+            ]
+        },
+        {
+            "vertexId": "V(10,15)",
+            "connected_vertices": [
+                "V(9,15)",
+                "V(11,15)",
+                "V(10,16)",
+                "V(10,14)"
+            ]
+        },
+        {
+            "vertexId": "V(10,16)",
+            "connected_vertices": [
+                "V(11,16)",
+                "V(9,16)",
+                "V(10,15)"
+            ]
+        },
+        {
+            "vertexId": "V(11,0)",
+            "connected_vertices": [
+                "V(12,0)",
+                "V(11,1)",
+                "V(10,0)"
+            ]
+        },
+        {
+            "vertexId": "V(11,1)",
+            "connected_vertices": [
+                "V(11,0)",
+                "V(10,1)",
+                "V(12,1)",
+                "V(11,2)"
+            ]
+        },
+        {
+            "vertexId": "V(11,2)",
+            "connected_vertices": [
+                "V(10,2)",
+                "V(11,1)",
+                "V(12,2)",
+                "V(11,3)"
+            ]
+        },
+        {
+            "vertexId": "V(11,3)",
+            "connected_vertices": [
+                "V(11,2)",
+                "V(10,3)",
+                "V(12,3)",
+                "V(11,4)"
+            ]
+        },
+        {
+            "vertexId": "V(11,4)",
+            "connected_vertices": [
+                "V(10,4)",
+                "V(11,3)",
+                "V(12,4)",
+                "V(11,5)"
+            ]
+        },
+        {
+            "vertexId": "V(11,5)",
+            "connected_vertices": [
+                "V(11,4)",
+                "V(10,5)",
+                "V(12,5)",
+                "V(11,6)"
+            ]
+        },
+        {
+            "vertexId": "V(11,6)",
+            "connected_vertices": [
+                "V(10,6)",
+                "V(11,5)",
+                "V(12,6)",
+                "V(11,7)"
+            ]
+        },
+        {
+            "vertexId": "V(11,7)",
+            "connected_vertices": [
+                "V(12,7)",
+                "V(11,8)",
+                "V(11,6)",
+                "V(10,7)"
+            ]
+        },
+        {
+            "vertexId": "V(11,8)",
+            "connected_vertices": [
+                "V(12,8)",
+                "V(11,9)",
+                "V(10,8)",
+                "V(11,7)"
+            ]
+        },
+        {
+            "vertexId": "V(11,9)",
+            "connected_vertices": [
+                "V(11,10)",
+                "V(11,8)",
+                "V(10,9)",
+                "V(12,9)"
+            ]
+        },
+        {
+            "vertexId": "V(11,10)",
+            "connected_vertices": [
+                "V(12,10)",
+                "V(11,9)",
+                "V(10,10)",
+                "V(11,11)"
+            ]
+        },
+        {
+            "vertexId": "V(11,11)",
+            "connected_vertices": [
+                "V(12,11)",
+                "V(11,10)",
+                "V(10,11)",
+                "V(11,12)"
+            ]
+        },
+        {
+            "vertexId": "V(11,12)",
+            "connected_vertices": [
+                "V(10,12)",
+                "V(11,11)",
+                "V(12,12)",
+                "V(11,13)"
+            ]
+        },
+        {
+            "vertexId": "V(11,13)",
+            "connected_vertices": [
+                "V(10,13)",
+                "V(11,12)",
+                "V(12,13)",
+                "V(11,14)"
+            ]
+        },
+        {
+            "vertexId": "V(11,14)",
+            "connected_vertices": [
+                "V(11,15)",
+                "V(12,14)",
+                "V(11,13)",
+                "V(10,14)"
+            ]
+        },
+        {
+            "vertexId": "V(11,15)",
+            "connected_vertices": [
+                "V(11,16)",
+                "V(12,15)",
+                "V(10,15)",
+                "V(11,14)"
+            ]
+        },
+        {
+            "vertexId": "V(11,16)",
+            "connected_vertices": [
+                "V(11,15)",
+                "V(12,16)",
+                "V(10,16)"
+            ]
+        },
+        {
+            "vertexId": "V(12,0)",
+            "connected_vertices": [
+                "V(11,0)",
+                "V(12,1)",
+                "V(13,0)"
+            ]
+        },
+        {
+            "vertexId": "V(12,1)",
+            "connected_vertices": [
+                "V(11,1)",
+                "V(12,0)",
+                "V(12,2)",
+                "V(13,1)"
+            ]
+        },
+        {
+            "vertexId": "V(12,2)",
+            "connected_vertices": [
+                "V(11,2)",
+                "V(12,1)",
+                "V(13,2)",
+                "V(12,3)"
+            ]
+        },
+        {
+            "vertexId": "V(12,3)",
+            "connected_vertices": [
+                "V(11,3)",
+                "V(12,2)",
+                "V(13,3)",
+                "V(12,4)"
+            ]
+        },
+        {
+            "vertexId": "V(12,4)",
+            "connected_vertices": [
+                "V(13,4)",
+                "V(11,4)",
+                "V(12,3)",
+                "V(12,5)"
+            ]
+        },
+        {
+            "vertexId": "V(12,5)",
+            "connected_vertices": [
+                "V(13,5)",
+                "V(11,5)",
+                "V(12,4)",
+                "V(12,6)"
+            ]
+        },
+        {
+            "vertexId": "V(12,6)",
+            "connected_vertices": [
+                "V(12,7)",
+                "V(11,6)",
+                "V(12,5)",
+                "V(13,6)"
+            ]
+        },
+        {
+            "vertexId": "V(12,7)",
+            "connected_vertices": [
+                "V(12,8)",
+                "V(13,7)",
+                "V(11,7)",
+                "V(12,6)"
+            ]
+        },
+        {
+            "vertexId": "V(12,8)",
+            "connected_vertices": [
+                "V(11,8)",
+                "V(12,7)",
+                "V(12,9)",
+                "V(13,8)"
+            ]
+        },
+        {
+            "vertexId": "V(12,9)",
+            "connected_vertices": [
+                "V(12,10)",
+                "V(11,9)",
+                "V(12,8)",
+                "V(13,9)"
+            ]
+        },
+        {
+            "vertexId": "V(12,10)",
+            "connected_vertices": [
+                "V(12,11)",
+                "V(11,10)",
+                "V(12,9)",
+                "V(13,10)"
+            ]
+        },
+        {
+            "vertexId": "V(12,11)",
+            "connected_vertices": [
+                "V(12,10)",
+                "V(11,11)",
+                "V(13,11)",
+                "V(12,12)"
+            ]
+        },
+        {
+            "vertexId": "V(12,12)",
+            "connected_vertices": [
+                "V(12,11)",
+                "V(11,12)",
+                "V(13,12)",
+                "V(12,13)"
+            ]
+        },
+        {
+            "vertexId": "V(12,13)",
+            "connected_vertices": [
+                "V(13,13)",
+                "V(12,14)",
+                "V(11,13)",
+                "V(12,12)"
+            ]
+        },
+        {
+            "vertexId": "V(12,14)",
+            "connected_vertices": [
+                "V(13,14)",
+                "V(12,15)",
+                "V(11,14)",
+                "V(12,13)"
+            ]
+        },
+        {
+            "vertexId": "V(12,15)",
+            "connected_vertices": [
+                "V(13,15)",
+                "V(11,15)",
+                "V(12,16)",
+                "V(12,14)"
+            ]
+        },
+        {
+            "vertexId": "V(12,16)",
+            "connected_vertices": [
+                "V(13,16)",
+                "V(11,16)",
+                "V(12,15)"
+            ]
+        },
+        {
+            "vertexId": "V(13,0)",
+            "connected_vertices": [
+                "V(12,0)",
+                "V(14,0)",
+                "V(13,1)"
+            ]
+        },
+        {
+            "vertexId": "V(13,1)",
+            "connected_vertices": [
+                "V(12,1)",
+                "V(13,0)",
+                "V(14,1)",
+                "V(13,2)"
+            ]
+        },
+        {
+            "vertexId": "V(13,2)",
+            "connected_vertices": [
+                "V(12,2)",
+                "V(13,1)",
+                "V(14,2)",
+                "V(13,3)"
+            ]
+        },
+        {
+            "vertexId": "V(13,3)",
+            "connected_vertices": [
+                "V(14,3)",
+                "V(13,4)",
+                "V(13,2)",
+                "V(12,3)"
+            ]
+        },
+        {
+            "vertexId": "V(13,4)",
+            "connected_vertices": [
+                "V(14,4)",
+                "V(13,5)",
+                "V(13,3)",
+                "V(12,4)"
+            ]
+        },
+        {
+            "vertexId": "V(13,5)",
+            "connected_vertices": [
+                "V(13,4)",
+                "V(12,5)",
+                "V(14,5)",
+                "V(13,6)"
+            ]
+        },
+        {
+            "vertexId": "V(13,6)",
+            "connected_vertices": [
+                "V(13,5)",
+                "V(14,6)",
+                "V(13,7)",
+                "V(12,6)"
+            ]
+        },
+        {
+            "vertexId": "V(13,7)",
+            "connected_vertices": [
+                "V(12,7)",
+                "V(14,7)",
+                "V(13,8)",
+                "V(13,6)"
+            ]
+        },
+        {
+            "vertexId": "V(13,8)",
+            "connected_vertices": [
+                "V(12,8)",
+                "V(14,8)",
+                "V(13,9)",
+                "V(13,7)"
+            ]
+        },
+        {
+            "vertexId": "V(13,9)",
+            "connected_vertices": [
+                "V(14,9)",
+                "V(12,9)",
+                "V(13,8)",
+                "V(13,10)"
+            ]
+        },
+        {
+            "vertexId": "V(13,10)",
+            "connected_vertices": [
+                "V(12,10)",
+                "V(13,9)",
+                "V(14,10)",
+                "V(13,11)"
+            ]
+        },
+        {
+            "vertexId": "V(13,11)",
+            "connected_vertices": [
+                "V(12,11)",
+                "V(13,10)",
+                "V(14,11)",
+                "V(13,12)"
+            ]
+        },
+        {
+            "vertexId": "V(13,12)",
+            "connected_vertices": [
+                "V(13,13)",
+                "V(14,12)",
+                "V(12,12)",
+                "V(13,11)"
+            ]
+        },
+        {
+            "vertexId": "V(13,13)",
+            "connected_vertices": [
+                "V(13,14)",
+                "V(14,13)",
+                "V(12,13)",
+                "V(13,12)"
+            ]
+        },
+        {
+            "vertexId": "V(13,14)",
+            "connected_vertices": [
+                "V(13,13)",
+                "V(14,14)",
+                "V(13,15)",
+                "V(12,14)"
+            ]
+        },
+        {
+            "vertexId": "V(13,15)",
+            "connected_vertices": [
+                "V(13,14)",
+                "V(14,15)",
+                "V(13,16)",
+                "V(12,15)"
+            ]
+        },
+        {
+            "vertexId": "V(13,16)",
+            "connected_vertices": [
+                "V(14,16)",
+                "V(13,15)",
+                "V(12,16)"
+            ]
+        },
+        {
+            "vertexId": "V(14,0)",
+            "connected_vertices": [
+                "V(13,0)",
+                "V(15,0)",
+                "V(14,1)"
+            ]
+        },
+        {
+            "vertexId": "V(14,1)",
+            "connected_vertices": [
+                "V(13,1)",
+                "V(14,0)",
+                "V(14,2)",
+                "V(15,1)"
+            ]
+        },
+        {
+            "vertexId": "V(14,2)",
+            "connected_vertices": [
+                "V(15,2)",
+                "V(14,3)",
+                "V(13,2)",
+                "V(14,1)"
+            ]
+        },
+        {
+            "vertexId": "V(14,3)",
+            "connected_vertices": [
+                "V(14,4)",
+                "V(15,3)",
+                "V(13,3)",
+                "V(14,2)"
+            ]
+        },
+        {
+            "vertexId": "V(14,4)",
+            "connected_vertices": [
+                "V(13,4)",
+                "V(14,3)",
+                "V(15,4)",
+                "V(14,5)"
+            ]
+        },
+        {
+            "vertexId": "V(14,5)",
+            "connected_vertices": [
+                "V(13,5)",
+                "V(14,4)",
+                "V(14,6)",
+                "V(15,5)"
+            ]
+        },
+        {
+            "vertexId": "V(14,6)",
+            "connected_vertices": [
+                "V(15,6)",
+                "V(14,7)",
+                "V(13,6)",
+                "V(14,5)"
+            ]
+        },
+        {
+            "vertexId": "V(14,7)",
+            "connected_vertices": [
+                "V(14,8)",
+                "V(15,7)",
+                "V(13,7)",
+                "V(14,6)"
+            ]
+        },
+        {
+            "vertexId": "V(14,8)",
+            "connected_vertices": [
+                "V(15,8)",
+                "V(14,9)",
+                "V(13,8)",
+                "V(14,7)"
+            ]
+        },
+        {
+            "vertexId": "V(14,9)",
+            "connected_vertices": [
+                "V(15,9)",
+                "V(13,9)",
+                "V(14,8)",
+                "V(14,10)"
+            ]
+        },
+        {
+            "vertexId": "V(14,10)",
+            "connected_vertices": [
+                "V(14,9)",
+                "V(13,10)",
+                "V(15,10)",
+                "V(14,11)"
+            ]
+        },
+        {
+            "vertexId": "V(14,11)",
+            "connected_vertices": [
+                "V(15,11)",
+                "V(14,12)",
+                "V(13,11)",
+                "V(14,10)"
+            ]
+        },
+        {
+            "vertexId": "V(14,12)",
+            "connected_vertices": [
+                "V(15,12)",
+                "V(14,13)",
+                "V(13,12)",
+                "V(14,11)"
+            ]
+        },
+        {
+            "vertexId": "V(14,13)",
+            "connected_vertices": [
+                "V(13,13)",
+                "V(14,14)",
+                "V(15,13)",
+                "V(14,12)"
+            ]
+        },
+        {
+            "vertexId": "V(14,14)",
+            "connected_vertices": [
+                "V(13,14)",
+                "V(14,15)",
+                "V(15,14)",
+                "V(14,13)"
+            ]
+        },
+        {
+            "vertexId": "V(14,15)",
+            "connected_vertices": [
+                "V(14,16)",
+                "V(13,15)",
+                "V(14,14)",
+                "V(15,15)"
+            ]
+        },
+        {
+            "vertexId": "V(14,16)",
+            "connected_vertices": [
+                "V(13,16)",
+                "V(14,15)",
+                "V(15,16)"
+            ]
+        },
+        {
+            "vertexId": "V(15,0)",
+            "connected_vertices": [
+                "V(14,0)",
+                "V(16,0)",
+                "V(15,1)"
+            ]
+        },
+        {
+            "vertexId": "V(15,1)",
+            "connected_vertices": [
+                "V(16,1)",
+                "V(15,2)",
+                "V(15,0)",
+                "V(14,1)"
+            ]
+        },
+        {
+            "vertexId": "V(15,2)",
+            "connected_vertices": [
+                "V(16,2)",
+                "V(15,3)",
+                "V(14,2)",
+                "V(15,1)"
+            ]
+        },
+        {
+            "vertexId": "V(15,3)",
+            "connected_vertices": [
+                "V(15,2)",
+                "V(14,3)",
+                "V(16,3)",
+                "V(15,4)"
+            ]
+        },
+        {
+            "vertexId": "V(15,4)",
+            "connected_vertices": [
+                "V(14,4)",
+                "V(15,3)",
+                "V(16,4)",
+                "V(15,5)"
+            ]
+        },
+        {
+            "vertexId": "V(15,5)",
+            "connected_vertices": [
+                "V(16,5)",
+                "V(15,6)",
+                "V(15,4)",
+                "V(14,5)"
+            ]
+        },
+        {
+            "vertexId": "V(15,6)",
+            "connected_vertices": [
+                "V(16,6)",
+                "V(15,7)",
+                "V(14,6)",
+                "V(15,5)"
+            ]
+        },
+        {
+            "vertexId": "V(15,7)",
+            "connected_vertices": [
+                "V(16,7)",
+                "V(15,8)",
+                "V(15,6)",
+                "V(14,7)"
+            ]
+        },
+        {
+            "vertexId": "V(15,8)",
+            "connected_vertices": [
+                "V(16,8)",
+                "V(15,9)",
+                "V(14,8)",
+                "V(15,7)"
+            ]
+        },
+        {
+            "vertexId": "V(15,9)",
+            "connected_vertices": [
+                "V(16,9)",
+                "V(15,8)",
+                "V(14,9)",
+                "V(15,10)"
+            ]
+        },
+        {
+            "vertexId": "V(15,10)",
+            "connected_vertices": [
+                "V(15,9)",
+                "V(15,11)",
+                "V(16,10)",
+                "V(14,10)"
+            ]
+        },
+        {
+            "vertexId": "V(15,11)",
+            "connected_vertices": [
+                "V(15,12)",
+                "V(16,11)",
+                "V(14,11)",
+                "V(15,10)"
+            ]
+        },
+        {
+            "vertexId": "V(15,12)",
+            "connected_vertices": [
+                "V(15,11)",
+                "V(16,12)",
+                "V(15,13)",
+                "V(14,12)"
+            ]
+        },
+        {
+            "vertexId": "V(15,13)",
+            "connected_vertices": [
+                "V(15,12)",
+                "V(16,13)",
+                "V(15,14)",
+                "V(14,13)"
+            ]
+        },
+        {
+            "vertexId": "V(15,14)",
+            "connected_vertices": [
+                "V(14,14)",
+                "V(15,15)",
+                "V(16,14)",
+                "V(15,13)"
+            ]
+        },
+        {
+            "vertexId": "V(15,15)",
+            "connected_vertices": [
+                "V(14,15)",
+                "V(15,16)",
+                "V(16,15)",
+                "V(15,14)"
+            ]
+        },
+        {
+            "vertexId": "V(15,16)",
+            "connected_vertices": [
+                "V(14,16)",
+                "V(15,15)",
+                "V(16,16)"
+            ]
+        },
+        {
+            "vertexId": "V(16,0)",
+            "connected_vertices": [
+                "V(16,1)",
+                "V(15,0)"
+            ]
+        },
+        {
+            "vertexId": "V(16,1)",
+            "connected_vertices": [
+                "V(16,2)",
+                "V(15,1)",
+                "V(16,0)"
+            ]
+        },
+        {
+            "vertexId": "V(16,2)",
+            "connected_vertices": [
+                "V(15,2)",
+                "V(16,1)",
+                "V(16,3)"
+            ]
+        },
+        {
+            "vertexId": "V(16,3)",
+            "connected_vertices": [
+                "V(15,3)",
+                "V(16,2)",
+                "V(16,4)"
+            ]
+        },
+        {
+            "vertexId": "V(16,4)",
+            "connected_vertices": [
+                "V(16,5)",
+                "V(15,4)",
+                "V(16,3)"
+            ]
+        },
+        {
+            "vertexId": "V(16,5)",
+            "connected_vertices": [
+                "V(16,6)",
+                "V(15,5)",
+                "V(16,4)"
+            ]
+        },
+        {
+            "vertexId": "V(16,6)",
+            "connected_vertices": [
+                "V(16,7)",
+                "V(15,6)",
+                "V(16,5)"
+            ]
+        },
+        {
+            "vertexId": "V(16,7)",
+            "connected_vertices": [
+                "V(16,8)",
+                "V(15,7)",
+                "V(16,6)"
+            ]
+        },
+        {
+            "vertexId": "V(16,8)",
+            "connected_vertices": [
+                "V(16,9)",
+                "V(15,8)",
+                "V(16,7)"
+            ]
+        },
+        {
+            "vertexId": "V(16,9)",
+            "connected_vertices": [
+                "V(15,9)",
+                "V(16,8)",
+                "V(16,10)"
+            ]
+        },
+        {
+            "vertexId": "V(16,10)",
+            "connected_vertices": [
+                "V(16,9)",
+                "V(16,11)",
+                "V(15,10)"
+            ]
+        },
+        {
+            "vertexId": "V(16,11)",
+            "connected_vertices": [
+                "V(15,11)",
+                "V(16,12)",
+                "V(16,10)"
+            ]
+        },
+        {
+            "vertexId": "V(16,12)",
+            "connected_vertices": [
+                "V(15,12)",
+                "V(16,13)",
+                "V(16,11)"
+            ]
+        },
+        {
+            "vertexId": "V(16,13)",
+            "connected_vertices": [
+                "V(16,14)",
+                "V(15,13)",
+                "V(16,12)"
+            ]
+        },
+        {
+            "vertexId": "V(16,14)",
+            "connected_vertices": [
+                "V(16,15)",
+                "V(15,14)",
+                "V(16,13)"
+            ]
+        },
+        {
+            "vertexId": "V(16,15)",
+            "connected_vertices": [
+                "V(15,15)",
+                "V(16,16)",
+                "V(16,14)"
+            ]
+        },
+        {
+            "vertexId": "V(16,16)",
+            "connected_vertices": [
+                "V(15,16)",
+                "V(16,15)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+-i 1
+-r 0
+real_mccss_r5.txt
+one_to_one/R.txt 5 c
+one_to_one/L.txt 1 c
+one_to_one/greek.txt 0 p
+one_to_one/greek_h.txt 0 h
+one_to_one/southern_us.txt 0 p
+one_to_one/southern_us_h.txt 0 h
+one_to_one/filipino.txt 0 p
+one_to_one/filipino_h.txt 0 h
+one_to_one/indian.txt 0 p
+one_to_one/indian_h.txt 0 h
+one_to_one/jamaican.txt 0 p
+one_to_one/jamaican_h.txt 0 h
+one_to_one/spanish.txt 0 p
+one_to_one/spanish_h.txt 0 h
+one_to_one/italian.txt 0 p
+one_to_one/italian_h.txt 0 h
+one_to_one/mexican.txt 0 p
+one_to_one/mexican_h.txt 0 h
+one_to_one/chinese.txt 0 p
+one_to_one/chinese_h.txt 0 h
+one_to_one/british.txt 0 p
+one_to_one/british_h.txt 0 h
+one_to_one/thai.txt 0 p
+one_to_one/thai_h.txt 0 h
+one_to_one/vietnamese.txt 0 p
+one_to_one/vietnamese_h.txt 0 h
+one_to_one/cajun_creole.txt 0 p
+one_to_one/cajun_creole_h.txt 0 h
+one_to_one/brazilian.txt 0 p
+one_to_one/brazilian_h.txt 0 h
+one_to_one/french.txt 0 p
+one_to_one/french_h.txt 0 h
+one_to_one/japanese.txt 0 p
+one_to_one/japanese_h.txt 0 h
+one_to_one/irish.txt 0 p
+one_to_one/irish_h.txt 0 h
+one_to_one/korean.txt 0 p
+one_to_one/korean_h.txt 0 h
+one_to_one/moroccan.txt 0 p
+one_to_one/moroccan_h.txt 0 h
+one_to_one/russian.txt 0 p
+one_to_one/russian_h.txt 0 h
+nary/
+-e rel1.txt

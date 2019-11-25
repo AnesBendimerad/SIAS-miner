@@ -1,0 +1,28 @@
+-i 1
+-r 0
+real_mccss_r5.txt
+one_to_one/R.txt 5 c
+one_to_one/L.txt 1 p
+one_to_one/L_h.txt 0 h
+one_to_one/outdoors.txt 0 p
+one_to_one/outdoors_h.txt 0 h
+one_to_one/shop.txt 0 p
+one_to_one/shop_h.txt 0 h
+one_to_one/college.txt 0 p
+one_to_one/college_h.txt 0 h
+one_to_one/travel.txt 0 p
+one_to_one/travel_h.txt 0 h
+one_to_one/event.txt 0 p
+one_to_one/event_h.txt 0 h
+one_to_one/nightlife.txt 0 p
+one_to_one/nightlife_h.txt 0 h
+one_to_one/residence.txt 0 p
+one_to_one/residence_h.txt 0 h
+one_to_one/arts.txt 0 p
+one_to_one/arts_h.txt 0 h
+one_to_one/professional.txt 0 p
+one_to_one/professional_h.txt 0 h
+one_to_one/food.txt 0 p
+one_to_one/food_h.txt 0 h
+nary/
+-e rel1.txt

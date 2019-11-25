@@ -1,0 +1,1017 @@
+{
+    "descriptorName": "FlightsGraphs",
+    "attributesName": [
+        "AS",
+        "AA",
+        "US",
+        "DL",
+        "NK",
+        "UA",
+        "HA",
+        "B6",
+        "OO",
+        "EV",
+        "MQ",
+        "F9",
+        "WN",
+        "VX"
+    ],
+    "vertices": [
+        {
+            "vertexId": "JFK",
+            "descriptorsValues": [
+                151,
+                31209,
+                2842,
+                50794,
+                0,
+                6575,
+                586,
+                80894,
+                0,
+                0,
+                7226,
+                0,
+                0,
+                7343
+            ]
+        },
+        {
+            "vertexId": "GSP",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                3360,
+                0,
+                0,
+                0,
+                0,
+                48,
+                6048,
+                978,
+                0,
+                2650,
+                0
+            ]
+        },
+        {
+            "vertexId": "BMI",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                164,
+                2002,
+                3221,
+                74,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "GST",
+            "descriptorsValues": [
+                154,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "SIT",
+            "descriptorsValues": [
+                2454,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                230,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "MIA",
+            "descriptorsValues": [
+                0,
+                96588,
+                3588,
+                17036,
+                0,
+                6344,
+                0,
+                0,
+                366,
+                0,
+                10651,
+                4092,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "BOS",
+            "descriptorsValues": [
+                2803,
+                35255,
+                17976,
+                28515,
+                4454,
+                22565,
+                0,
+                75916,
+                516,
+                4597,
+                0,
+                0,
+                19917,
+                3184
+            ]
+        },
+        {
+            "vertexId": "LIH",
+            "descriptorsValues": [
+                2392,
+                1374,
+                370,
+                668,
+                0,
+                1688,
+                14598,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "OAJ",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2272,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "LIT",
+            "descriptorsValues": [
+                0,
+                19,
+                0,
+                3868,
+                0,
+                0,
+                0,
+                0,
+                1656,
+                5779,
+                4842,
+                0,
+                4675,
+                0
+            ]
+        },
+        {
+            "vertexId": "BOI",
+            "descriptorsValues": [
+                0,
+                718,
+                792,
+                2097,
+                0,
+                1114,
+                0,
+                0,
+                12690,
+                0,
+                0,
+                0,
+                5900,
+                0
+            ]
+        },
+        {
+            "vertexId": "BGR",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                378,
+                0,
+                0,
+                0,
+                0,
+                0,
+                356,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "FNT",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                1862,
+                0,
+                0,
+                0,
+                0,
+                882,
+                1847,
+                1920,
+                0,
+                2981,
+                0
+            ]
+        },
+        {
+            "vertexId": "YUM",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3755,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "DRO",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2372,
+                168,
+                1596,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "PAH",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1332,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "COU",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2616,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "CPR",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3546,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "AGS",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                1394,
+                0,
+                2,
+                0,
+                0,
+                22,
+                3306,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "VEL",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                411,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "GSO",
+            "descriptorsValues": [
+                0,
+                283,
+                2,
+                3798,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6566,
+                2550,
+                266,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "PIH",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1308,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "BQK",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1757,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "SAN",
+            "descriptorsValues": [
+                10278,
+                13097,
+                3444,
+                11708,
+                3689,
+                15395,
+                668,
+                2515,
+                12876,
+                0,
+                0,
+                1492,
+                61768,
+                3484
+            ]
+        },
+        {
+            "vertexId": "PIA",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                616,
+                5041,
+                3674,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "PIB",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1146,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "MYR",
+            "descriptorsValues": [
+                0,
+                0,
+                12,
+                1711,
+                6500,
+                0,
+                0,
+                0,
+                0,
+                1438,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "SAF",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                460,
+                1059,
+                1487,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "DCA",
+            "descriptorsValues": [
+                2650,
+                35734,
+                20316,
+                17151,
+                0,
+                9265,
+                0,
+                19039,
+                3038,
+                5923,
+                1506,
+                1976,
+                28527,
+                2468
+            ]
+        },
+        {
+            "vertexId": "SPI",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1995,
+                677,
+                501,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "LAW",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1344,
+                1317,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "HSV",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                3534,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4142,
+                1365,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "MQT",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                37,
+                0,
+                572,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "RAP",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                340,
+                0,
+                0,
+                0,
+                0,
+                4526,
+                650,
+                1018,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "BWI",
+            "descriptorsValues": [
+                831,
+                8248,
+                3796,
+                13011,
+                5637,
+                6024,
+                0,
+                3544,
+                2,
+                710,
+                2236,
+                0,
+                128125,
+                0
+            ]
+        },
+        {
+            "vertexId": "PIT",
+            "descriptorsValues": [
+                0,
+                6632,
+                4687,
+                6995,
+                0,
+                4547,
+                0,
+                2984,
+                950,
+                2810,
+                1233,
+                0,
+                17401,
+                0
+            ]
+        },
+        {
+            "vertexId": "RIC",
+            "descriptorsValues": [
+                0,
+                2959,
+                1364,
+                5174,
+                0,
+                615,
+                0,
+                4229,
+                162,
+                10619,
+                2954,
+                0,
+                2630,
+                0
+            ]
+        },
+        {
+            "vertexId": "SAT",
+            "descriptorsValues": [
+                668,
+                10490,
+                672,
+                5990,
+                0,
+                5404,
+                0,
+                0,
+                6946,
+                1581,
+                202,
+                0,
+                27619,
+                0
+            ]
+        },
+        {
+            "vertexId": "CHA",
+            "descriptorsValues": [
+                0,
+                0,
+                0,
+                1561,
+                0,
+                0,
+                0,
+                0,
+                146,
+                5351,
+                1348,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "vertexId": "ILM",
+            "descriptorsValues": [
+                0,
+                321,
+                2,
+                697,
+                0,
+                0,
+                0,
+                0,
+                30,
+                2671,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "vertexId": "JFK",
+            "connected_vertices": [
+                "MIA",
+                "BOS",
+                "DCA",
+                "BWI",
+                "SAN",
+                "PIT",
+                "SAT"
+            ]
+        },
+        {
+            "vertexId": "GSP",
+            "connected_vertices": [
+                "BWI"
+            ]
+        },
+        {
+            "vertexId": "BMI",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "GST",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "SIT",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "MIA",
+            "connected_vertices": [
+                "JFK",
+                "BOS",
+                "SAN",
+                "DCA",
+                "GSO",
+                "BWI",
+                "SAT"
+            ]
+        },
+        {
+            "vertexId": "BOS",
+            "connected_vertices": [
+                "JFK",
+                "MIA",
+                "SAN",
+                "MYR",
+                "DCA",
+                "BWI",
+                "RIC",
+                "PIT"
+            ]
+        },
+        {
+            "vertexId": "LIH",
+            "connected_vertices": [
+                "SAN"
+            ]
+        },
+        {
+            "vertexId": "OAJ",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "LIT",
+            "connected_vertices": [
+                "BWI"
+            ]
+        },
+        {
+            "vertexId": "BOI",
+            "connected_vertices": [
+                "SAN"
+            ]
+        },
+        {
+            "vertexId": "BGR",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "FNT",
+            "connected_vertices": [
+                "BWI"
+            ]
+        },
+        {
+            "vertexId": "YUM",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "DRO",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "PAH",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "COU",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "CPR",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "AGS",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "VEL",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "GSO",
+            "connected_vertices": [
+                "MIA"
+            ]
+        },
+        {
+            "vertexId": "PIH",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "BQK",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "SAN",
+            "connected_vertices": [
+                "JFK",
+                "MIA",
+                "BOS",
+                "LIH",
+                "BOI",
+                "BWI",
+                "SAT"
+            ]
+        },
+        {
+            "vertexId": "PIA",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "PIB",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "MYR",
+            "connected_vertices": [
+                "BOS",
+                "BWI"
+            ]
+        },
+        {
+            "vertexId": "SAF",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "DCA",
+            "connected_vertices": [
+                "JFK",
+                "MIA",
+                "BOS"
+            ]
+        },
+        {
+            "vertexId": "SPI",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "LAW",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "HSV",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "MQT",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "RAP",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "BWI",
+            "connected_vertices": [
+                "JFK",
+                "GSP",
+                "FNT",
+                "MIA",
+                "BOS",
+                "LIT",
+                "PIT",
+                "SAT",
+                "MYR",
+                "SAN"
+            ]
+        },
+        {
+            "vertexId": "PIT",
+            "connected_vertices": [
+                "JFK",
+                "BOS",
+                "BWI"
+            ]
+        },
+        {
+            "vertexId": "RIC",
+            "connected_vertices": [
+                "BOS"
+            ]
+        },
+        {
+            "vertexId": "SAT",
+            "connected_vertices": [
+                "JFK",
+                "MIA",
+                "SAN",
+                "BWI"
+            ]
+        },
+        {
+            "vertexId": "CHA",
+            "connected_vertices": []
+        },
+        {
+            "vertexId": "ILM",
+            "connected_vertices": []
+        }
+    ]
+}

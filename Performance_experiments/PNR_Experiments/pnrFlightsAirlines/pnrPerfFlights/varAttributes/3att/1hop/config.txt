@@ -1,0 +1,13 @@
+-i 1
+-r 0
+real_mccss.txt
+one_to_one/R.txt 20 c
+one_to_one/L.txt 1 c
+one_to_one/as.txt 0 p
+one_to_one/as_h.txt 0 h
+one_to_one/aa.txt 0 p
+one_to_one/aa_h.txt 0 h
+one_to_one/us.txt 0 p
+one_to_one/us_h.txt 0 h
+nary/
+-e rel1.txt

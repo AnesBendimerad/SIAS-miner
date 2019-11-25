@@ -1,0 +1,17 @@
+-i 1
+-r 0
+real_mccss.txt
+one_to_one/R.txt 20 c
+one_to_one/L.txt 1 c
+one_to_one/greek.txt 0 p
+one_to_one/greek_h.txt 0 h
+one_to_one/southern_us.txt 0 p
+one_to_one/southern_us_h.txt 0 h
+one_to_one/filipino.txt 0 p
+one_to_one/filipino_h.txt 0 h
+one_to_one/indian.txt 0 p
+one_to_one/indian_h.txt 0 h
+one_to_one/jamaican.txt 0 p
+one_to_one/jamaican_h.txt 0 h
+nary/
+-e rel1.txt

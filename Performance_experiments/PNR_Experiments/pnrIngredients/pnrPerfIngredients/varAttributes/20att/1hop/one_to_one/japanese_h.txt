@@ -1,0 +1,5 @@
+japanese,japanese
+5,1
+5,2
+6,3
+6,5

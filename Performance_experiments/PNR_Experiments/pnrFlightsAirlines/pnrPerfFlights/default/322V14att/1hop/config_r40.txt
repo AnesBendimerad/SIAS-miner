@@ -1,0 +1,35 @@
+-i 1
+-r 0
+real_mccss_r40.txt
+one_to_one/R.txt 40 c
+one_to_one/L.txt 1 c
+one_to_one/as.txt 0 p
+one_to_one/as_h.txt 0 h
+one_to_one/aa.txt 0 p
+one_to_one/aa_h.txt 0 h
+one_to_one/us.txt 0 p
+one_to_one/us_h.txt 0 h
+one_to_one/dl.txt 0 p
+one_to_one/dl_h.txt 0 h
+one_to_one/nk.txt 0 p
+one_to_one/nk_h.txt 0 h
+one_to_one/ua.txt 0 p
+one_to_one/ua_h.txt 0 h
+one_to_one/ha.txt 0 p
+one_to_one/ha_h.txt 0 h
+one_to_one/b6.txt 0 p
+one_to_one/b6_h.txt 0 h
+one_to_one/oo.txt 0 p
+one_to_one/oo_h.txt 0 h
+one_to_one/ev.txt 0 p
+one_to_one/ev_h.txt 0 h
+one_to_one/mq.txt 0 p
+one_to_one/mq_h.txt 0 h
+one_to_one/f9.txt 0 p
+one_to_one/f9_h.txt 0 h
+one_to_one/wn.txt 0 p
+one_to_one/wn_h.txt 0 h
+one_to_one/vx.txt 0 p
+one_to_one/vx_h.txt 0 h
+nary/
+-e rel1.txt

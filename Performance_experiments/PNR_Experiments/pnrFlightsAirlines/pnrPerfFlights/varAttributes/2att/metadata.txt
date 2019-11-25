@@ -1,0 +1,4 @@
+nbVertices:322
+nbAttributes:2
+nbEdges:2039.0
+avgDegree:12.66

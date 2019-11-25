@@ -1,0 +1,12 @@
+-i 1
+-r 0
+real_mccss.txt
+one_to_one/R.txt 5 c
+one_to_one/L.txt 1 p
+one_to_one/L_h.txt 0 h
+one_to_one/outdoors.txt 0 p
+one_to_one/outdoors_h.txt 0 h
+one_to_one/shop.txt 0 p
+one_to_one/shop_h.txt 0 h
+nary/
+-e rel1.txt

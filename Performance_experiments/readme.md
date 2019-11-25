@@ -1,0 +1,1 @@
+Before running PNR-Miner experiments, make sure the pnr-miner c++ is compiled in the "PNRMiner" folder, if it is not the case, please run PNRMiner_Code/compile.sh

@@ -1,0 +1,58 @@
+-i 1
+-r 0
+real_mccss.txt
+one_to_one/R.txt 5 c
+one_to_one/L.txt 1 p
+one_to_one/L_h.txt 0 h
+one_to_one/outdoors.txt 0 p
+one_to_one/outdoors_h.txt 0 h
+one_to_one/shop.txt 0 p
+one_to_one/shop_h.txt 0 h
+one_to_one/college.txt 0 p
+one_to_one/college_h.txt 0 h
+one_to_one/travel.txt 0 p
+one_to_one/travel_h.txt 0 h
+one_to_one/event.txt 0 p
+one_to_one/event_h.txt 0 h
+one_to_one/nightlife.txt 0 p
+one_to_one/nightlife_h.txt 0 h
+one_to_one/residence.txt 0 p
+one_to_one/residence_h.txt 0 h
+one_to_one/arts.txt 0 p
+one_to_one/arts_h.txt 0 h
+one_to_one/professional.txt 0 p
+one_to_one/professional_h.txt 0 h
+one_to_one/food.txt 0 p
+one_to_one/food_h.txt 0 h
+one_to_one/australian.txt 0 p
+one_to_one/australian_h.txt 0 h
+one_to_one/rv.txt 0 p
+one_to_one/rv_h.txt 0 h
+one_to_one/furniture.txt 0 p
+one_to_one/furniture_h.txt 0 h
+one_to_one/public.txt 0 p
+one_to_one/public_h.txt 0 h
+one_to_one/mobile.txt 0 p
+one_to_one/mobile_h.txt 0 h
+one_to_one/light.txt 0 p
+one_to_one/light_h.txt 0 h
+one_to_one/tv.txt 0 p
+one_to_one/tv_h.txt 0 h
+one_to_one/dumpling.txt 0 p
+one_to_one/dumpling_h.txt 0 h
+one_to_one/street.txt 0 p
+one_to_one/street_h.txt 0 h
+one_to_one/shopping.txt 0 p
+one_to_one/shopping_h.txt 0 h
+one_to_one/taxi.txt 0 p
+one_to_one/taxi_h.txt 0 h
+one_to_one/pool.txt 0 p
+one_to_one/pool_h.txt 0 h
+one_to_one/military.txt 0 p
+one_to_one/military_h.txt 0 h
+one_to_one/college.txt 0 p
+one_to_one/college_h.txt 0 h
+one_to_one/performing.txt 0 p
+one_to_one/performing_h.txt 0 h
+nary/
+-e rel1.txt

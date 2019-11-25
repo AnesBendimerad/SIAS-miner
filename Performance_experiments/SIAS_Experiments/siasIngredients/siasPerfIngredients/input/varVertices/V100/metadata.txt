@@ -1,0 +1,4 @@
+nbVertices:100
+nbAttributes:20
+nbEdges:502.0
+avgDegree:10.04
