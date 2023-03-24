@@ -18,8 +18,8 @@ import utils.DesignPoint;
 import utils.Statistics;
 
 public class ClosureManager implements IClosureManager {
-	//private double thresholdLow = 0.5;
-	//private double thresholdHigh = 0.5;
+	// private double thresholdLow = 0.5;
+	// private double thresholdHigh = 0.5;
 	private Graph graph;
 	private QualCalculator calculator;
 	private DesignPoint designPoint;
@@ -72,7 +72,7 @@ public class ClosureManager implements IClosureManager {
 //		if (designPoint.useUB) {
 //			p.charact.bound.UbIC = 0;
 //		}
-		//int initSize = p.vertexIndices.size();
+		// int initSize = p.vertexIndices.size();
 		addedToPattern.add(vToAdd);
 		p.vertexIndices.add(vToAdd);
 		allowedCand.fastClear(vToAdd);
@@ -223,30 +223,22 @@ public class ClosureManager implements IClosureManager {
 		}
 	}
 
+	
 	private int checkCandidateNeighb(Pattern p, int curIt, boolean toAdd, int newAddedV) {
 		boolean toRemove = true;
 		if (graph.vDistances[curIt][newAddedV] == -1) {
 			return -1;
-		} else {
-			//toRemove = false;
 		}
 
 		for (Pair<Integer, Integer> pair : p.Ni_v) {
-			if (graph.vDistances[curIt][pair.second] >= 0 && graph.vDistances[curIt][pair.second] <= pair.first) {
+			if (graph.vDistances[curIt][pair.second] >= 0
+					&& graph.vDistances[curIt][pair.second] <= designPoint.maxDistance) {
 				toRemove = false;
-				if (!toAdd) {
-					break;
-				}
 			} else {
 				toAdd = false;
-				// check if toRemove goes to false
-				if (graph.vDistances[curIt][pair.second] >= 0
-						&& graph.vDistances[curIt][pair.second] <= designPoint.maxDistance) {
-					toRemove = false;
-				}
-				if (!toRemove) {
-					break;
-				}
+			}
+			if (!toRemove && !toAdd) {
+				break;
 			}
 		}
 		if (toRemove) {
@@ -271,10 +263,10 @@ public class ClosureManager implements IClosureManager {
 //				if (designPoint.useUB) {
 //					p.charact.bound.newFragUbIC += calculator.getMaxICByVertexAndChar(curIt, rest);
 //				} else {
-					if (!toAdd) {
-						break;
-					}
-				//}
+				if (!toAdd) {
+					break;
+				}
+				// }
 			} else {
 				toAdd = false;
 				// check if possible to extend this in the futur
